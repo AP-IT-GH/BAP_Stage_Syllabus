@@ -1,3 +1,12 @@
+#Markdown presentatie
+In deze map vind je terug:
+* markdown.pttx : de presentatie waari alles wordt uitgelegd.
+* README.md: dit document met onder hoofdstuk "Resultaat presentatie" alle markdown uit de presentatie die we vervolgens zullen compileren naar een pdf
+* SUMMARY.md: leeg bestand dat gitbook nodig heeft
+* book.pdf: het resultaat indien we dit document compileren naar een pdf
+
+
+# Resultaat presentatie
 # Paragraph
 First paragraph.
 
@@ -83,7 +92,7 @@ Cool developer books contain C# code such as:
 	
 	Console.WriteLine();
 
-Notice that there’s a tab in front
+Notice that there’s a tab and a linebreak in front , and a line break afterwards
 
 
 Inline code like this `reset --help` is done with the backtick. Make sure to use the correct one! (alt-gr+7 on my keyboard)
