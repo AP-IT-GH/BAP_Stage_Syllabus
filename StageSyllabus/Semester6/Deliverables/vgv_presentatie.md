@@ -7,20 +7,20 @@ Vervolgens voel je het respectievelijke document in conform de timing.
 
 ##Enkele veelgestelde vgv vragen
 
-Q Mag ik afbeeldingen e.d. toevoegen?
-A Graag. Vaak zegt een duidelijk diagram meer dan een gecompliceerde uitleg.
+* Q Mag ik afbeeldingen e.d. toevoegen?
+* A Graag. Vaak zegt een duidelijk diagram meer dan een gecompliceerde uitleg.
 
-Q moet reeds geproduceerde resultaten (code, ..) mee verstuurd worden??
+* Q moet reeds geproduceerde resultaten (code, ..) mee verstuurd worden?
 A Neen. Het VGV geeft een technisch overzicht van je status, zonder code/pcb-designs etc. Highlevel zaken zoals architecturen e.d. zijn meer dan welkom, maar geen kleine stukjes code en scripts. 
 
-Q Mijn 'bronnen' waren vooral google en stackoverflow. 
-A Dat zal bij de meeste zo zijn. Maar mogelijk heb je een goed (e)boek gelezen over de materie , dan mag dat hier zeker staan. Google als bron is geen goede bron, wél specifieke sites met goede tutorials etc horen in deze lijst.
+* Q Mijn 'bronnen' waren vooral google en stackoverflow. 
+* A Dat zal bij de meeste zo zijn. Maar mogelijk heb je een goed (e)boek gelezen over de materie , dan mag dat hier zeker staan. Google als bron is geen goede bron, wel specifieke sites met goede tutorials etc horen in deze lijst.
 
-Q Het enige 'uitgebreide' contact is mijn projectbegeleider. Ik heb geen presentaties bijgewoond. 
-A Het sjabloon is zo generiek mogelijk gemaakt. Het is dus geen schande indien je niet alle vakken iets nuttig kunt zetten. Sommige onder jullie zijn echter in contact gebracht met bepaalde extterne mensen om een probleem te helpen oplossen bv , of iemand dat je op cebit hebt ontmoet die je kan verder helpen. 
+* Q Het enige 'uitgebreide' contact is mijn projectbegeleider. Ik heb geen presentaties bijgewoond. 
+* A Het sjabloon is zo generiek mogelijk gemaakt. Het is dus geen schande indien je niet alle vakken iets nuttig kunt zetten. Sommige onder jullie zijn echter in contact gebracht met bepaalde extterne mensen om een probleem te helpen oplossen bv , of iemand dat je op cebit hebt ontmoet die je kan verder helpen. 
 
-Q Hoe was m'n tussentijdse presentatie of vgv ? Zijn jullie tevreden?
-A Indien je niet onder je vijs hebt gekregen nadien wilt dit zeggen dat je "on track" bent. Blijf dus niet op je lauweren rusten, maar blijf doorwerken zoals je doet (of nog wat meer) en wie weet zijn je laatste maanden in deze opleiding van start gegaan!
+* Q Hoe was m'n tussentijdse presentatie of vgv ? Zijn jullie tevreden?
+* A Indien je niet onder je vijs hebt gekregen nadien wilt dit zeggen dat je "on track" bent. Blijf dus niet op je lauweren rusten, maar blijf doorwerken zoals je doet (of nog wat meer) en wie weet zijn je laatste maanden in deze opleiding van start gegaan!
 
 #Voortgangspresentatie
 
