@@ -24,7 +24,7 @@ Enkele aanvullende tips:
 * Voeg schema's en meetresultaten toe van testopstellingen om uw verhaal te verduidelijken
 
 Veelgebruikte fouten bij het maken van het logboek:
-* Per werkdag hebben we een entry nodig
+* Per werkdag hebben we een beschrijving nodig van wat je die dag gedaan hebt.
 * Deze moet een technische beschrijving zijn van wat je die dag hebt gedaan (dus niet dat je bent gaan squashen smiddags)
 * Taalgebruik = wetenschappelijk (geen smiley's, woorden als 'geprutst', etc.)
 * Geen ludieke of niet-relevante zaken bijvoegen
