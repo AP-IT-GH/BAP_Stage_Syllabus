@@ -1,5 +1,5 @@
 #Scriptiesamenvatting
-In je studentrepo staat een voorbeeld van een scriptiesamenvatting. Deze "one pager"is een document die je scriptie samenvat op een visuaal aantrekkelijke manier. Bedoeling is dat je deze bij je presentatie toevoegt digitaal zodat de aanwezigen dit kunnen gebruiken om tijdens en nadien je werk te kunnen resumeren. 
+In je studentrepo staat een voorbeeld van een scriptiesamenvatting. Deze "one pager" is een document die je scriptie samenvat op een visuaal aantrekkelijke manier. Bedoeling is dat je deze aan je presentatie digitaal toevoegt zodat de aanwezigen dit kunnen gebruiken om tijdens en nadien je werk te kunnen resumeren. 
 
 Het spreekt vanzelf dat je dit document pas kan maken van zodra je scriptie (en best ook presentatie) klaar is.
 
