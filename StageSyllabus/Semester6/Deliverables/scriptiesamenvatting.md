@@ -4,6 +4,6 @@ In je studentrepo staat een voorbeeld van een scriptiesamenvatting. Deze "one pa
 Het spreekt vanzelf dat je dit document pas kan maken van zodra je scriptie (en best ook presentatie) klaar is.
 
 ##Url delen op presentatie
-De scriptiesamenvatting dien je zelf ergens online te plaatsen als pdf. *Op de dag van je presentatie, op je slide bij de introductie dien je dan de url ernaartoe met de aanwezigen te delen.*
+De scriptiesamenvatting dien je zelf ergens online te plaatsen als pdf. *Op de dag van je presentatie, op je slide bij de introductie dien je dan de url ernaar toe met de aanwezigen te delen.*
 
 Gebruik best een url-verkorter bit.ly om de url..je raadt het nooit...te verkorten.
