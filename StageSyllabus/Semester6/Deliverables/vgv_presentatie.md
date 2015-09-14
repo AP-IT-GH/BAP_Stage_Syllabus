@@ -35,6 +35,7 @@ De stagegever en stagementor zijn niet op deze presentatie aanwezig (gelieve hen
 * Onbekende tools/platformen kort voorstellen in het begin van de presentatie
 * Resulaten en afgelegde weg om het resultaat te bekomen zijn alle twee belangrijk, ook tests die gefaald zijn kunnen een meerwaarde zijn om te vermelden om de flow van het verhaal duidelijk te maken
 * Zorg er voor dat diagrammen duidelijk en overzichtelijk zijn 
+
 a. Gebruik verschillende soorten/kleuren pijlen/blokken om verschillen duidelijk te maken
 b. Gebruik juiste woorden en technische termen
 * Zorgen dat ze zelf kritisch zijn en hun werk zelf in vraag stellen. Waarom deze technologie?a. Waarom deze oplossing?
