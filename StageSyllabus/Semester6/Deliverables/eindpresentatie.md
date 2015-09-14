@@ -4,16 +4,16 @@ De presentatie gebeurt in het Nederlands aan de hand van een slideshowpresentati
 ## Presentatie 
 
 * de presentatie gebeurt met een eigen laptop of met de PC van het auditorium
-* de presentatie moet bij aanvang als final commit naar je repo worden geupload
+* de presentatie moet bij aanvang als final commit naar je repo geupload worden. 
 * je kiest zelf de layout en vorm (ppt, prezi) van je presentatiedocument
 
-**Belangrijk: Maak in je eerste of 2e slide steeds heel duidelijk wat de context van je BAP was. Toon bijvoorbeeld een case waarin jouw product tot uiting komt. Deze slide geeft maw een goede samenvatting en antwoord op de vraag ìWat heb je eigenlijk gemaakt en wat is het nut ervan?î**
+**Belangrijk: Maak in je eerste of 2e slide steeds heel duidelijk wat de context van je BAP was. Toon bijvoorbeeld een case waarin jouw product tot uiting komt. Deze slide geeft maw een goede samenvatting en antwoord op de vraag ‚ÄúWat heb je eigenlijk gemaakt en wat is het nut ervan?‚Äù**
 
 ## Demonstratie
 
 * demonstraties gebeuren idealiter in hetzelfde lokaal, maar mogen op voorhand "klaargezet" worden (gelieve hiervoor met de stagecoordinator een afspraak te maken).
-* Het gebruik van vooraf opgenomen demoís is toegestaan (om een vlot verloop van de demo te garanderen), echter: een deel van de finale demo moet minstens live plaatsvinden.
-* Tip voor tablet/mobiele applicatie en hardware demos: je kan live demoís tonen door deze te filmen met een webcam of via remote access en vervolgens de feed op het scherm tonen.
+* Het gebruik van vooraf opgenomen demo‚Äôs is toegestaan (om een vlot verloop van de demo te garanderen), echter: een deel van de finale demo moet minstens live plaatsvinden.
+* Tip voor tablet/mobiele applicatie en hardware demos: je kan live demo‚Äôs tonen door deze te filmen met een webcam of via remote access en vervolgens de feed op het scherm tonen.
   * Indien je 2 projectoren nodig hebt dan moet dit via de stagecoordinators besproken worden.
 
 ## Uurregeling
