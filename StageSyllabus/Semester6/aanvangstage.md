@@ -1,5 +1,5 @@
 #Stage
-Je bachelorproef voer je uit op je stagebedrijf. De opleiding heeft er expliciet voor gekozen om geen aparte stage uit te voeren daar ze van mening is dat 48 dagen op een bedrijf aan je bachelorproefwerken meer dan voldoet tot een stage.
+Je bachelorproef voer je uit op je stagebedrijf. De opleiding heeft er expliciet voor gekozen om geen aparte stage uit te voeren daar ze van mening is dat 48 dagen op een bedrijf aan je bachelorproefwerken meer dan voldoet als stage.
 
 ##Veelgestelde vragen
 ### "Hoeveel uren moet ik op het bedrijf presteren?"
