@@ -18,7 +18,7 @@ Alle documenten (scriptie, scriptiesamenvatting, etc.) moeten in het Nederlands 
 ##E-email signature
 Gelieve altijd een e-mail handtekening te gebruiken als je mails stuurt naar buitenlandse partners, bedrijfscontacten,... Dit geeft een professionele indruk en maakt het voor uw communicatiepartner eenvoudig om snel je contactgegevens terug te vinden.
 
-Gebruik bij voorkeur onderstaande handtekening zodat deze eenvormig is voor iedereen en steeds dezelfde informatie bevat:
+Gebruik bij voorkeur onderstaande handtekening zodat deze eenvormig is voor iedereen en steeds de juiste informatie bevat:
 
 
 >Dams Tim
