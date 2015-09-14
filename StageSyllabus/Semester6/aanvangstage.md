@@ -9,7 +9,7 @@ Het is belangrijk te weten dat dit cijfer (8u/dag, 4dagen/week, 12weken) een *MI
 Zorg gewoon dat je opdracht af geraakt, dat je veel bijleert en dat je als een professionele bachelor in een bedrijf meedraait.
 
 ### "Mag ik ook meer dan 4 dagen per week stage lopen?" 
-Als er in het draaiboek staat minstens 12 keer 4 dagen werken, betekent dit dat je wel 12 weken gedurende 4 dagen in het bedrijf aanwezig moet zijn. Gelet op het woord minstens betekent dit dat je wel 5 dagen aanwezig mag zijn (indien er de vijfde dag geen andere activiteiten door de opleiding voor jullie voorzien zijn.)
+Als er in het draaiboek staat minstens 12 keer 4 dagen werken, betekent dit dat je 12 weken gedurende 4 dagen in het bedrijf aanwezig moet zijn. Gelet op het woord minstens betekent dit dat je wel 5 dagen aanwezig mag zijn (indien er de vijfde dag geen andere activiteiten door de opleiding voor jullie voorzien zijn.)
 
 ### "Mag ik tijdens de schoolvakanties naar het stagebedrijf gaan?"
 Je bent enkel verzekerd tijdens de lesweekperiodes. Schoolvakanties, examenperiodes e.d. zijn dus niet verzekerd vanuit AP.
