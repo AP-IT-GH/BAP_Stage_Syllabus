@@ -1,11 +1,11 @@
 #Video
-Het is de bedoeling dat er voor elke BAP een filmpje wordt gemaakt dat het idee en de probleemoplossing van de proef zo duidelijk mogelijk naar buitenstaanders communiceert op een technisch maar toch visueel interessante manier. Het is de bedoeling om de BAP in een video zeer kort samen te vatten op een entertainende, doch correctie manier. Zo kan je bijvoorbeeld een demo geven van het ontwikkelde systeem met het filmpje als leidraad.
+Het is de bedoeling dat er voor elke BAP een filmpje wordt gemaakt dat voor buitenstaanders het idee en de probleemoplossing van de proef op een visuele en technisch verantwoorde wijze duidelijk weergeeft. Het is de bedoeling om de BAP in een video zeer kort samen te vatten op een entertainende, doch correcte manier. Zo kan je bijvoorbeeld een demo geven van het ontwikkelde systeem met het filmpje als leidraad.
 
 ##Vormafspraken en inhoud:
 * Moet het idee, de probleemoplossing van de proef zo duidelijk mogelijk kunnen communiceren (bespreek dit eventueel eerst met je promotor);
 * Mag maximaal 3 minuten duren;
-* Moet voorzien worden van het ìorigineleî AP, dat moet worden geplaatst in de rechter onderhoek van de film;
-* Moet afsluiten met een credits scherm dat moet bevatten (in volgorde): ìAP University College of Antwerp <jaargang>î, Namen auteurs van de proef, namen promotors. vb.:
+* Moet voorzien worden van het ‚Äúoriginele‚Äù AP logo, dat moet worden geplaatst in de rechter onderhoek van de film;
+* Moet afsluiten met een credits scherm dat moet bevatten (in volgorde): ‚ÄúAP University College of Antwerp <jaargang>‚Äù, Namen auteurs van de proef, namen promotors. vb.:
 >AP University College of Antwerp 2013-2014
 >Auteurs:
 >Tom Meskens en Bram Vermeulen
@@ -16,4 +16,4 @@ Het is de bedoeling dat er voor elke BAP een filmpje wordt gemaakt dat het idee 
 
 ## Tips:
 * Voorbeelden van voorgangers vind je [hier](http://www.youtube.com/playlist?list=PLWbYwTW0Y9iT6EmDZQNXgFgS6U1pcaJXP)
-* Gebruik geen copyright materiaal !!! Controleer uitvoerig de rechten alvorens achtergrondmuziek, afbeeldingen, fotoís te gebruiken en gebruik waar nodig copeleft materiaal.
+* Gebruik geen copyright materiaal !!! Controleer uitvoerig de rechten alvorens achtergrondmuziek, afbeeldingen, foto‚Äôs te gebruiken en gebruik waar nodig copyleft materiaal.
