@@ -15,9 +15,9 @@ https://nodejs.org/download/
 
 Zeker npm package manager kiezen. 
 
-Voort vervolgens volgende opdracht uit:  ``npm install gitbook-cli -g``
+Voer vervolgens volgende opdracht uit:  ``npm install gitbook-cli -g``
 
-Lees vervolgen [deze](https://github.com/GitbookIO/gitbook#how-to-use-it) tekst en experimenteer wat.
+Lees vervolgens [deze](https://github.com/GitbookIO/gitbook#how-to-use-it) tekst en experimenteer wat.
 **Merk op dat git init niet meer hoeft in je scriptie map. Test dit best ook even in eigen map zodat je zeker bent dat alles goed werkt.**
 
 
