@@ -1,6 +1,6 @@
 #Github repository
-Al je documenten en documentatie dien je in een eigen, private github repository te bewaren. Je dien daarvoor de StudentRepo te forken die de opleiding via github zal aanbieden.
-Je dient je aan de structuur te houden dat deze repo heeft. Uiteraard mag je waar nodig in de mappen extra zaken toevoegen (ordelijk houden aub).
+Al je documenten en documentatie dien je in een eigen, private github repository te bewaren. Je dient daarvoor de StudentRepo te forken die de opleiding via github zal aanbieden.
+Je moet je aan de structuur van deze repo houden. Uiteraard mag je waar nodig in de mappen extra zaken toevoegen (ordelijk houden aub).
 
 ##Hoe forken?
 * Surf naar: [https://github.com/AP-Elektronica-ICT/BAP_Stage_StudentRepo](https://github.com/AP-Elektronica-ICT/BAP_Stage_StudentRepo)
