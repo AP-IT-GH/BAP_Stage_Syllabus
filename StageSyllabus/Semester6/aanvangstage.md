@@ -21,7 +21,7 @@ Je bent enkel verzekerd tijdens de lesweekperiodes. Schoolvakanties, examenperio
 Enkele aanvullende tips:
 * Leg de nadruk op het inhoudelijke, niet enkel op wat je zelf geleerd, gedaan hebt.
 * Zorg er voor dat je alle begrippen, vakjargon,... eerst toelicht. (ofwel in de verklarende woordenlijst, ofwel in de technologieomschrijving)
-* Voeg schema's toe van testopstellingen om uw verhaal te verduidelijken
+* Voeg schema's en meetresultaten toe van testopstellingen om uw verhaal te verduidelijken
 
 Veelgebruikte fouten bij het maken van het logboek:
 * Per werkdag hebben we een entry nodig
