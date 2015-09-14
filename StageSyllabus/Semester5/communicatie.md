@@ -1,6 +1,6 @@
 #Communicatie
 ##Met wie communiceren?
-Ivm de bachelorproef en stage heb je 4 personen naar wie je kan mailen/communiceren. 
+I.v.m. de bachelorproef en stage heb je 4 personen naar wie je kan mailen/communiceren. 
 1. Stagebegeleider (AP-lector)
 2. Stagementor (bedrijf)
 3. Stagegever 
