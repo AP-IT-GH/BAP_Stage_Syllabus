@@ -18,6 +18,7 @@ Zeker npm package manager kiezen.
 Voer vervolgens volgende opdracht uit:  ``npm install gitbook-cli -g``
 
 Lees vervolgens [deze](https://github.com/GitbookIO/gitbook#how-to-use-it) tekst en experimenteer wat.
+
 **Merk op dat git init niet meer in je scriptie map hoeft te staan. Test dit best ook even in je eigen map zodat je zeker bent dat alles goed werkt.**
 
 
