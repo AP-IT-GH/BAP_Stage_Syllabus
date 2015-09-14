@@ -6,7 +6,7 @@ I.v.m. de bachelorproef en stage heb je 4 personen naar wie je kan mailen/commun
 3. Stagegever 
 4. Stagecoordinators (Smets en Dams)
 
-De eerste twee zijn je eerste en belangrijkste aanspreekpunten. Zij dienen continue op de hoogte gehouden te worden van je status.
+De eerste twee zijn je eerste en belangrijkste aanspreekpunten. Zij dienen continu op de hoogte gehouden te worden van je status.
 De stagegever zal voornamelijk in semester 5 je aanspreekpunt zijn ivm het in orde brengen van de nodige documenten.
 De stagecoordinators dien je te contacteren bij vragen over de algemene werking van de stage en bachelorproef. Bij twijfel mag je deze steeds in cc zetten.
 
