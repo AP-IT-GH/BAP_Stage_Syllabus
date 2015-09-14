@@ -37,4 +37,4 @@ De stagegever en stagementor zijn niet op deze presentatie aanwezig (gelieve hen
 * Zorg er voor dat diagrammen duidelijk en overzichtelijk zijn 
   a. Gebruik verschillende soorten/kleuren pijlen/blokken om verschillen duidelijk te maken
   b. Gebruik juiste woorden en technische termen
-* Zorg dat je kritisch bent en je werk zelf in vraag stelt. Waarom deze technologie?a. Waarom deze oplossing?
+* Zorg dat je kritisch bent en je werk zelf in vraag stelt. Waarom deze technologie? Waarom deze oplossing?
