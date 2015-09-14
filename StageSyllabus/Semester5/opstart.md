@@ -1,5 +1,5 @@
 #Semester 5: Opstart
-Het is zo ver. De laatste rechte lijn naar jullie diploma. De komende dagen en weken zijn cruciaal dat alles vlot verloopt. Indien er dus zaken nog niet in orde zijn of je hebt vragen/twijfels/ideeen, neem dan asap contact op met je promotor(s) en of de stagecoordinators (Dams en Smets). Zeker in deze fase is het belangrijk dat je direct open kaart speelt over je bezorgdheden, plannen en andere zaken.
+Het is zo ver. De laatste rechte lijn naar jullie diploma is begonnen. De komende dagen en weken zijn cruciaal dat alles vlot verloopt. Indien er dus zaken nog niet in orde zijn of je hebt vragen/twijfels/ideeen, neem dan asap contact op met je promotor(s) en of de stagecoordinators (Dams en Smets). Zeker in deze fase is het belangrijk dat je direct open kaart speelt over je bezorgdheden, plannen en andere zaken.
 
 #Taken uit te voeren:
 Het eerste semester dien je de nodige administratie in orde te brengen:
