@@ -7,18 +7,18 @@ I.v.m. de bachelorproef en stage heb je 4 personen naar wie je kan mailen/commun
 4. Stagecoordinators (Smets en Dams)
 
 De eerste twee zijn je eerste en belangrijkste aanspreekpunten. Zij dienen continu op de hoogte gehouden te worden van je status.
-De stagegever zal voornamelijk in semester 5 je aanspreekpunt zijn ivm het in orde brengen van de nodige documenten.
-De stagecoordinators dien je te contacteren bij vragen over de algemene werking van de stage en bachelorproef. Bij twijfel mag je deze steeds in cc zetten.
+De stagegever zal voornamelijk in semester 5 je aanspreekpunt zijn i.v.m. de documenten die in orde gebracht moeten worden.
+De stagecoordinators contacteer je bij vragen over de algemene werking van de stage en bachelorproef. Bij twijfel mag je deze steeds in cc zetten.
 
 ##Taalkeuze
-Alle documenten (scriptie, scriptiesamenvatting, etc.) dienen in het Nederlands opgesteld te worden, uitzonderingen hierop zijn:
+Alle documenten (scriptie, scriptiesamenvatting, etc.) moeten in het Nederlands opgesteld te worden. Uitzonderingen hierop zijn:
 * Erasmus-studenten: er dient met de promotor(s) ter plaatse afgesproken te worden welke documenten in het Engels en welke in het Nederlands mogen gemaakt worden.
-* Explicitie vraag van het bedrijf: Indien de bedrijfspromotor nadrukkelijk om in het Engels te worden, dan kan dit mits in samenspraak met de stagebegeleider.
+* Explicitie vraag van het bedrijf: Indien de bedrijfspromotor nadrukkelijk vraagt om je scriptie in het Engels op te stellen, kan dit in samenspraak met de stagebegeleider.
 
 ##E-email signature
-Gelieve altijd een e-mail signature te gebruiken als je mails stuurt naar buitenlandse partners, bedrijfscontacten,...Dit geeft een professionele indruk en maakt het voor uw communicatiepartner eenvoudig om snel je contactgegevens terug te vinden.
+Gelieve altijd een e-mail handtekening te gebruiken als je mails stuurt naar buitenlandse partners, bedrijfscontacten,... Dit geeft een professionele indruk en maakt het voor uw communicatiepartner eenvoudig om snel je contactgegevens terug te vinden.
 
-Gebruik bij voorkeur onderstaande signature zodat iedereen er ongeveer hetzelfde in heeft staan:
+Gebruik bij voorkeur onderstaande handtekening zodat deze eenvormig is voor iedereen en steeds dezelfde informatie bevat:
 
 
 >Dams Tim
