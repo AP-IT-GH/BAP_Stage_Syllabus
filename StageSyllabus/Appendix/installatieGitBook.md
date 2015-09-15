@@ -1,5 +1,5 @@
 # Gitbook installatie handleiding
-Je scriptie moet geschreven te worden in markdown en dient steeds ook naar een pdf geconverteerd te worden. We gaan hiervoor [gitbook](https://github.com/GitbookIO/gitbook) gebruiken (zie voorbeeld in  je studentrepo in de map Scriptie)
+Je scriptie moet geschreven worden in markdown en dient steeds ook naar een pdf geconverteerd te worden. We gaan hiervoor [gitbook](https://github.com/GitbookIO/gitbook) gebruiken (zie voorbeeld in  je studentrepo in de map Scriptie)
 ## Git installatie en setup
 Installeer eerst Git via https://git-scm.com/downloads 
 Zorg ervoor dat het ``git.exe`` commando overal beschikbaar is. Test dit door een command prompt (Start=>Run>cmd) te openen en vervolgens git [enter] in te voeren. Indien dit werkt kan je vervolgens verder gaan naar Gitbook installatie.
