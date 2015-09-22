@@ -11,7 +11,7 @@ Het eerste semester dien je de nodige administratie in orde te brengen:
 * Github repo forken en voorbereiden.
 
 ##Stagecontract en reglement
-Deze documenten staan in [Documenten](/Documenten).
+Deze documenten staan in [Documenten](../Documenten).
 
 Volgende stappen dien je te ondernemen:
 1. Gelieve beide documenten samen met je promotor (school en bedrijf) vooraf in te vullen. 
