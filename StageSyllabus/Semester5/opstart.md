@@ -39,7 +39,7 @@ Volgende stappen dien je te ondernemen:
 
 ##Risicoanalyse
 * Ieder bedrijf met uitzondering van zelfstandigen zonder werknemers moeten deze documenten reeds bezitten voor de werknemers van het bedrijf. In dat geval dient de stagegever je een copie van deze documenten te bezorgen.
-* Indien je terecht komt bij een zelfstandige zonder werknemers mag je gebruik maken van het document risiconalyse dat in de map [Documenten](\Documenten) staat. Merk op dat in quasi alle andere gevallen dit document door het bedrijf zelf beschikbaar dient te worden gesteld.
+* Indien je terecht komt bij een zelfstandige zonder werknemers mag je gebruik maken van het document risiconalyse dat in de map [Documenten](../Documenten) staat. Merk op dat in quasi alle andere gevallen dit document door het bedrijf zelf beschikbaar dient te worden gesteld.
 
 ##Stagesyllabus
 Zorg ervoor dat je stagegever en stagementor een versie van de stagesyllabus krijgen (dit document) zodat ook zij op de hoogte zijn van alle afspraken en regels.
