@@ -20,7 +20,7 @@ Vervolgens, *mogelijkheid A*
 `cd BAP_Stage_StudentRepo`
 * Verander de remote origin van originele repo naar eigen repo
 `git remote remove origin` en dan 
-`git remote add origin https://github.com/AP-Elektronica-ICT/bachelorproef-RobertSmits.git`
+`git remote add origin (jouw repo giturl hier)`
 * Push de locale repo naar GitHub 
 `git push -u origin master`
 * Commit al deze nieuw toegevoegde zaken aan je repo en je kan beginnen.
