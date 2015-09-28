@@ -4,7 +4,7 @@ Je scriptie moet geschreven worden in markdown en dient steeds ook naar een pdf 
 ## Git installatie en setup
 *De kans bestaat dat je Git al hebt geinstalleerd dit kan door [GitHub Desktop](https://desktop.github.com) of [SmartGit](http://www.syntevo.com/smartgit/). In dat geval kan je de eerste stap overslaan.*
 
-Download [Git](http://www.syntevo.com/smartgit/) en start de installatie. Tijdens de setup selecteer je **Use Git from the Windows Command Prompt**. 
+Download [Git](https://git-scm.com/download/win/)(Niet portable) en start de installatie. Tijdens de setup selecteer je **Use Git from the Windows Command Prompt**. 
 Na de installatie test je of je Git overal kan gebruiken door cmd (Start => Run => cmd) te openen en vervolgens git [enter] in te voeren. Dit moet de help text van git tonen, als dit het geval is kan je doorgaan naar de Node.js installatie.
 
 ### Voor Git Desktop en SmartGit gebruikers (of als git.exe na installatie niet werkt)
@@ -27,7 +27,7 @@ Als je klaar bent sluit je alle vensters door op Ok te klikken en test dit vervo
 GitBook is een programma gebouwd op Node.js, dit moeten we dus eerst installeren.
 *Als je een volledige installatie van VisualStudio hebt gedaan is Node.js waarschijnlijk al geïnstalleerd. Test dit door in de cmd `npm --version`uit te voeren. Als dit een versienummer geeft kan je verder gaan naar de GitBook installatie.*
 
-Om Node.js te installeren download je [hier](https://nodejs.org/download/release) de juiste setup file (\*.msi). Start de setup en voer een volledige installatie uit.
+Om Node.js te installeren download je [hier](https://nodejs.org/download/release/latest/) de juiste setup file (\*.msi). Start de setup en voer een volledige installatie uit.
 Test vervolgens of Node.js werkt door een **nieuwe** cmd te openen en `npm --version` uit te voeren. Werkt dit dan kan je doorgaan naar de GitBook installatie.
 
 ## Gitbook installatie
