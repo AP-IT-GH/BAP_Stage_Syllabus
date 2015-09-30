@@ -3,7 +3,7 @@ Het is zo ver. De laatste rechte lijn naar jullie diploma is begonnen. De komend
 
 #Taken uit te voeren:
 Het eerste semester dien je de nodige administratie in orde te brengen:
-* het *Stagecontract* opstellen en het stagereglement ondertekenen,
+* het *Stagecontract/stageovereenkomst* opstellen en het stagereglement ondertekenen,
   * Optioneel: Risicoanalyse en werkpostfiche,
 * Contact opnemen met je stagebedrijf en kennis maken met je stagegever en stagementor, 
   * Optioneel: Nodige voorstudie opstarten (bv inwerken tools en technologie),
