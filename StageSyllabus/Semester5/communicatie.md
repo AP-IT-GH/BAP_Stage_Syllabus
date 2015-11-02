@@ -15,7 +15,7 @@ Alle documenten (scriptie, scriptiesamenvatting, etc.) moeten in het Nederlands 
 * Erasmus-studenten: er dient met de promotor(s) ter plaatse afgesproken te worden welke documenten in het Engels en welke in het Nederlands mogen gemaakt worden.
 * Explicitie vraag van het bedrijf: Indien de bedrijfspromotor nadrukkelijk vraagt om je scriptie in het Engels op te stellen, kan dit in samenspraak met de stagebegeleider.
 
-##E-email signature
+##E-mail signature
 Gelieve altijd een e-mail handtekening te gebruiken als je mails stuurt naar buitenlandse partners, bedrijfscontacten,... Dit geeft een professionele indruk en maakt het voor uw communicatiepartner eenvoudig om snel je contactgegevens terug te vinden.
 
 Gebruik bij voorkeur onderstaande handtekening zodat deze eenvormig is voor iedereen en steeds de juiste informatie bevat:
