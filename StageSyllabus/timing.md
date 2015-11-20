@@ -18,6 +18,7 @@ De inleverdeadline is steeds *middernacht op het einde van de gegeven dag*.
 * Finale scriptietitel mailen naar stagecoordinators en promotors: 13 december
 * Indienen bachelorproefdeliverables (voorlaatste commit): 22 januari 
 * Eindpresentatie (laatste commit): 1-5 februari
+* Periode: 15 februari - 2 juni
 
 
 
