@@ -4,7 +4,7 @@ Het is zo ver. De laatste rechte lijn naar jullie diploma is begonnen. De komend
 #Taken uit te voeren:
 Het eerste semester dien je de nodige administratie in orde te brengen:
 * het *Stagecontract/stageovereenkomst* opstellen en het stagereglement ondertekenen,
-  * Optioneel: Risicoanalyse en werkpostfiche,
+* Risicoanalyse en werkpostfiche van het bedrijf (zie voorwaarden onderaan)
 * Contact opnemen met je stagebedrijf en kennis maken met je stagegever en stagementor, 
   * Optioneel: Nodige voorstudie opstarten (bv inwerken tools en technologie),
 * *Elevator pitch* voorbereiden,
@@ -39,7 +39,7 @@ Volgende stappen dien je te ondernemen:
 
 ##Risicoanalyse
 * Ieder bedrijf met uitzondering van zelfstandigen zonder werknemers moeten deze documenten reeds bezitten voor de werknemers van het bedrijf. In dat geval dient de stagegever je een copie van deze documenten te bezorgen.
-* Indien je terecht komt bij een zelfstandige zonder werknemers mag je gebruik maken van het document risiconalyse dat in de map [Documenten](../Documenten) staat. Merk op dat in quasi alle andere gevallen dit document door het bedrijf zelf beschikbaar dient te worden gesteld.
+* Indien je terecht komt bij een zelfstandige zonder werknemers mag je gebruik maken van het document risiconalyse je via dhr Smets kan verkrijgen. *Merk op dat in quasi alle andere gevallen dit document door het bedrijf zelf beschikbaar dient te worden gesteld.*
 
 ##Stagesyllabus
 Zorg ervoor dat je stagegever en stagementor een versie van de stagesyllabus krijgen (dit document) zodat ook zij op de hoogte zijn van alle afspraken en regels.
