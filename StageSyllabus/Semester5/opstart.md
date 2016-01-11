@@ -47,9 +47,11 @@ Het is jouw verantwoordelijkheid dat je de afspraken erin nakomt (**je stagebedr
 
 ##Elevator pitch
 Bedoeling is dat je tegen de examenperiode in januari een zogenaamde elevator pitch voorbereid. Deze pitch gebruik je om in enkele minuten je bahelorproefopdracht aan derden toe te lichten.Hiervoor dien je 2 zaken voor te bereiden:
-1. Een presentatie van 2 slides
-  1. (voorlopige) Titel + namen (jezelf, promotors, naam bedrijf)
-  2. Doel en beschrijving opdracht
+
+1. Een korte presentatie van 2 slides: 
+  - Slide 1: (voorlopige) Titel + namen (jezelf, promotors, naam bedrijf)
+  - Slide 2: Doel en beschrijving opdracht
+  
 2. Je pitch uitgeschreven in een tekst van minimum 350 en maximum 450 woorden
 
 Deze dien je te presenteren in januari alsook digitaal in te dienen aan je promotors en stagecoordinator.
