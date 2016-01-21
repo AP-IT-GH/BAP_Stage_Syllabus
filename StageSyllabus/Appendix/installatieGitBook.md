@@ -39,7 +39,8 @@ Lees vervolgens [deze](https://github.com/GitbookIO/gitbook#how-to-use-it) tekst
 
 ## Pdf Generatie
 Het commando `gitbook pdf` kan je gebruiken om je tekst naar een pdf te outputten. Hiervoor heb je volgens de gitbookdocumentatie ebook-convert nodig. De eenvoudigste manier om dit te installeren is door eenvoudigweg de open source [ebook manager "Calibre"](http://calibre-ebook.com/download) te installeren. Merk op dat dit niet zal werken indien je de portable versie van Calibre installeert.
-Voeg nu `C:\Program Files\Calibre2` toe aan je PATH variabele, dit zorgt er voor dat gitbook ebook-convert.exe kan aanroepen.
+
+Voeg nu `C:\Program Files\Calibre2` of 'C:\Program Files (x86)\Calibre2' toe aan je PATH variabele (uiteraard anders indien je Calibre elders hebt geinstalleerd), dit zorgt er voor dat gitbook ebook-convert.exe kan aanroepen.
 **Merk op dat je PATH ondertussen ook volgende locatie bevat `C:\Users\[UserName]\AppData\Roaming\npm` voor Node.js.**
 
 # En nu?
