@@ -24,3 +24,7 @@ Vervolgens, *mogelijkheid A*
 * Push de locale repo naar GitHub 
 `git push -u origin master`
 * Commit al deze nieuw toegevoegde zaken aan je repo en je kan beginnen.
+* 
+## Tijdens de stage
+* Standaard ben je geen admin van de repo. Indien je andere mensen toegang wil geven tot je repo dan dien je admin-rechten via de stagecoordinator aan te vragen. * Het is aanbevolen dat ook je stagementor toegang heeft tot je repo.*
+* Je repo hoeft niet als primaire repo gebruikt te worden voor je werk op het bedrijf. Indien het bedrijf bijvoorbeeld een eigen sourcecontrol-systeem heeft dan gebruik je deze voor al je code. *Je gebruikt deze repo minstens als primaire punt voor je **scriptie, log, presentaties**, alsook om je finale "product" (code) te uploaden aan het eind van het semester.
