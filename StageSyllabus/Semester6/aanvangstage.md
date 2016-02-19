@@ -13,19 +13,3 @@ Als er in het draaiboek staat minstens 12 keer 4 dagen werken, betekent dit dat 
 
 ### "Mag ik tijdens de schoolvakanties naar het stagebedrijf gaan?"
 Je bent enkel verzekerd tijdens de lesweekperiodes. Schoolvakanties, examenperiodes e.d. zijn dus niet verzekerd vanuit AP.
-
-#Logboek
-* Zorg ervoor dat je je logboek (zie studentrepo) constant bijwerkt.
-* Je dient *wekelijks* je stagebegeleider een kort (email) verslagje te sturen van je progressie. Dit mag een copy/paste zijn van je logboek aangevuld met een samenvatting van de week.
-
-Enkele aanvullende tips:
-* Leg de nadruk op het inhoudelijke, niet enkel op wat je zelf geleerd, gedaan hebt.
-* Zorg er voor dat je alle begrippen, vakjargon,... eerst toelicht. (ofwel in de verklarende woordenlijst, ofwel in de technologieomschrijving)
-* Voeg schema's en meetresultaten toe van testopstellingen om uw verhaal te verduidelijken
-
-Veelgebruikte fouten bij het maken van het logboek:
-* Per werkdag hebben we een beschrijving nodig van wat je die dag gedaan hebt.
-* Deze moet een technische beschrijving zijn van wat je die dag hebt gedaan (dus niet dat je bent gaan squashen smiddags)
-* Taalgebruik = wetenschappelijk (geen smiley's, woorden als 'geprutst', etc.)
-* Geen ludieke of niet-relevante zaken bijvoegen
-* Eén zinnetje per dag is iets te mager. Bekijk zeker de log voorbeelden in de studentrepo
