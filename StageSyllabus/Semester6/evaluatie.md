@@ -1,7 +1,7 @@
-# Evaluatie 
+﻿# Evaluatie 
 ##Beoordelingscriteria
 Je wordt beoordeeld op 4 aspecten:
-* Je finale product en de (technische) weg ernaartoe (ook een niet werkend product kan een perfecte scoren behalen)
+* Werkstuk: Je finale product en de (technische) weg ernaartoe (ook een niet werkend product kan een perfecte scoren behalen)
 * Je stage: je professionele houding op het bedrijf, opvolgen van deadlines, communicatie, etc
 * Je eindpresentatie en bevraging nadien
 * Je finale scriptie
@@ -15,7 +15,7 @@ Studenten die met 2 aan een bachelorproef werken zullen sowieso ook voor bepaald
 ##Evaluatietool
 Voor de evaluatie van de bachelorproef maken we gebruik van een tool die ontwikkeld werd door onze collega's van de Katholieke Hogeschool Sint. Lieven te Gent. Deze tool garandeert een gestructureerde en objectieve beoordeling van alle studenten.
 
-De tool, die ter inzage beschikbaar is voor de studenten, wordt door de promotoren van de bachelorproeven tijdens het academiejaar ingevuld. In de deze tool zijn alle leerdoelen en competenties van de bachelorproef en stage opgenomen. Er wordt voor iedere student en score gegeven op alle competenties en leerdoelen. Het eindresultaat is een score per leerdoel waaruit de student duidelijk kan afleiden wat de sterke en wat de zwakke punten van de bachelorproef waren. Door deze scores per leerdoel op te tellen komen we uiteindelijk tot het puntentotaal voor de bachelorproef.
+De tool, die ter inzage beschikbaar is voor de studenten (via [hier](https://github.com/AP-Elektronica-ICT/BAP_Stage_Syllabus/tree/master/Evaluatie)), wordt door de promotoren van de bachelorproeven tijdens het academiejaar ingevuld. In de deze tool zijn alle leerdoelen en competenties van de bachelorproef en stage opgenomen. Er wordt voor iedere student en score gegeven op alle competenties en leerdoelen. Het eindresultaat is een score per leerdoel waaruit de student duidelijk kan afleiden wat de sterke en wat de zwakke punten van de bachelorproef waren. Door deze scores per leerdoel op te tellen komen we uiteindelijk tot het puntentotaal voor de bachelorproef.
 
 Deze tool wordt ingevuld in samenspraak met het gehele docententeam, alsook de stagementoren en juryleden. Om te voorkomen dat de evaluatie niet evenwaardig zal gebeuren, zullen alle lectoren (en externe promotoren) minstens 2 bachelorproeven vergelijken.
 
