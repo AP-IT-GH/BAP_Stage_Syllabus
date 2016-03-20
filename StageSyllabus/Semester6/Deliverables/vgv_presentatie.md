@@ -4,6 +4,7 @@
 Je moet 2x een voortgangsverslag in te dienen. Dit doe je door in je repo in de map VGV het bestand vgvExample.md te kopieren naar nieuw bestand getiteld "vgv1.md" voor het eerste verslag, "vgv2.md" voor het 2e verslag. 
 Vervolgens vul je het respectievelijke document in conform de timing.
 
+Je mailt het vgv-verslag (als pdf + link naar repo) voorts naar al je promotors (stage én AP) .
 
 ##Enkele veelgestelde vgv vragen
 
