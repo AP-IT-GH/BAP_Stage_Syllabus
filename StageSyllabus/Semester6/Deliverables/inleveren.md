@@ -13,11 +13,11 @@ Je volledig portfolio (alle code, verslagen, digitale scriptie, etc) mag je digi
 #Team-afspraken
 Indien je als team aan een eindwerk werkt (zie opgelet hieronder) dan mogen sommige zaken samen afgegeven worden, andere blijven apart. Zaken die je samen afgeeft zullen uiteraard "dubbel" zo groot/lang moeten zijn.
 
-* Steeds apart (ieder in eigen repo)*:
+*Steeds apart (ieder in eigen repo):*
 * VGVs
 * Logs
 
-* Samen:*
+*Samen:*
 * Scriptie
 * Werkstuk/'eindproduct'
 * Eindpresentatie
