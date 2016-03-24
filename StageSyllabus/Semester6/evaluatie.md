@@ -1,4 +1,4 @@
-﻿# Evaluatie 
+#Evaluatie 
 ##Beoordelingscriteria
 Je wordt beoordeeld op 4 aspecten:
 * Werkstuk: Je finale product en de (technische) weg ernaartoe (ook een niet werkend product kan een perfecte scoren behalen)
