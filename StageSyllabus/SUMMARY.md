@@ -9,13 +9,13 @@
   * [Evaluatie](Semester6/evaluatie.md)
 * Deliverables
   * [Inleveren](Semester6/Deliverables/inleveren.md)  
-    * [Logboek](Semester6/Deliverables/logboek.md)
-    * [Testscriptie](Semester6/Deliverables/testscriptie.md)    
-    * [Scriptie](Semester6/Deliverables/scriptie.md)
-    * [Voortgangsverslag en voortgangspresentatie](Semester6/Deliverables/vgv_presentatie.md)
-    * [Scriptiesamenvatting](Semester6/Deliverables/scriptiesamenvatting.md)
-    * [Video](Semester6/Deliverables/video.md)
-    * [Eindpresentatie](Semester6/Deliverables/eindpresentatie.md)
+  * [Logboek](Semester6/Deliverables/logboek.md)
+  * [Testscriptie](Semester6/Deliverables/testscriptie.md)    
+  * [Scriptie](Semester6/Deliverables/scriptie.md)
+  * [Voortgangsverslag en voortgangspresentatie](Semester6/Deliverables/vgv_presentatie.md)
+  * [Scriptiesamenvatting](Semester6/Deliverables/scriptiesamenvatting.md)
+  * [Video](Semester6/Deliverables/video.md)
+  * [Eindpresentatie](Semester6/Deliverables/eindpresentatie.md)
 * Appendix
   * [Setup gitbook](Appendix/installatieGitBook.md)
 
