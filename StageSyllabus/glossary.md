@@ -33,3 +33,6 @@ Dit 'boek'. Bevat een volledig overzicht met afspraken en richtlijnen omtrent de
 
 #Werkstuk
 Het finale eindproduct (het zogenaam eindwerk of bachelorproef) van je stage en bachelorproefperiode. Denk hierbij aan code, pcb designs, etc. Maar ook de testresultaten, documentatie, e.d.
+
+#Stage
+Het deel waarbij je in een bedrijf meedraait als een volwaardig (junior) werknemer. De opleiding heeft er bewust voor gekozen de stage en het uitvoeren van de bachelorproef als een te beschouwen. Je werkt aan een werkstuk op je stagebedrijf en loopt dus daardoor automatisch ook stage. Bij de beoordeling wordt het stagegebeuren wel apart geevaluered door de stagementor.
