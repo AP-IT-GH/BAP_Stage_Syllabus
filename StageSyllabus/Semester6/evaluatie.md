@@ -1,4 +1,5 @@
-#Evaluatie 
+#Evaluatie
+
 ##Beoordelingscriteria
 Je wordt beoordeeld op 4 aspecten:
 * Werkstuk: Je finale product en de (technische) weg ernaartoe (ook een niet werkend product kan een perfecte scoren behalen)
@@ -27,10 +28,10 @@ Indien een student in eerste zittijd onvoldoende haalt (of beslist om de present
 ### Wat hernemen
 *Het is belangrijk te weten dat het criteria "stage" niet kan overgedaan worden in 2e zit!*
 
-Wie de BAP in de eerste zittijd indiende, maar een resultaat van minder dan 10 behaald heeft, dient voor het opleidingsonderdeel “Bachelorproef en stage 6” extra prestaties te leveren : in elk geval opnieuw verdedigen, maar ook de BAP-opdracht vollediger of beter realiseren, de ingediende tekst waar nodig verbeteren en/of aanvullen. Om de specifieke eisen te kennen, nemen de betrokken studenten contact op met hun promotor van de hogeschool.
+Wie de BAP in de eerste zittijd indiende, maar een resultaat van minder dan 10 behaald heeft, dient voor het opleidingsonderdeel “Bachelorproef en stage 6” extra prestaties te leveren : in elk geval opnieuw presenteren, maar ook de BAP-opdracht vollediger of beter realiseren, de ingediende tekst waar nodig verbeteren en/of aanvullen. Om de specifieke eisen te kennen, nemen de betrokken studenten contact op met hun promotor van de hogeschool.
 
-Studenten die hun BAP in de 2de zittijd herverdedigen moeten voor wat de mondelinge verdediging betreft voornamelijk de aangebrachte correcties, aanvullingen en praktische vorderingen bespreken. Zij moeten in elk geval een volledig aangevulde en gecorrigeerde scriptie indienen zodat de jury het geheel kan beoordelen, alsook kan vaststellen of de student(e) rekening gehouden heeft met de opmerkingen en suggesties gemaakt tijdens de vorige verdediging. Het volstaat dus niet een appendix, een deel 2 of een lijstje met errata in te dienen.
+Studenten die hun BAP in de 2de zittijd wensen te slagen  moeten voor wat de mondelinge eindpresentatie betreft voornamelijk de aangebrachte correcties, aanvullingen en praktische vorderingen bespreken. Zij moeten in elk geval een volledig aangevulde en gecorrigeerde scriptie indienen zodat de jury het geheel kan beoordelen, alsook kan vaststellen of de student(e) rekening gehouden heeft met de opmerkingen en suggesties gemaakt tijdens de vorige verdediging. Het volstaat dus niet een appendix, een deel 2 of een lijstje met errata in te dienen.
 
 ### Timing
-Voor de tweede zittijd moet de scriptie en BAP ten laatste 3 dagen voor de datum van de BAP-verdediging ingediend worden aan je promotor of de stagecoordinator.
+Voor de tweede zittijd moet de scriptie en BAP ten laatste 3 dagen voor de datum van de eindpresentatie ingediend worden aan je promotor of de stagecoordinator.
 **Van deze timing kan afgeweken worden, wat via Blackboard zal gecommuniceerd worden**

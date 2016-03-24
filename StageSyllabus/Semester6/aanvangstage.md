@@ -4,7 +4,7 @@ Je bachelorproef voer je uit op je stagebedrijf. De opleiding heeft er expliciet
 ##Veelgestelde vragen
 ### "Hoeveel uren moet ik op het bedrijf presteren?"
 We krijgen van enkele bedrijven geregeld (terecht) de opmerking dat sommige van jullie het vereist aantal werkuren/week nogal heel letterlijk nemen. 
-Het is belangrijk te weten dat dit cijfer (8u/dag, 4dagen/week, 12weken) een *MINIMUM-cijfer* is om aan de vereisten te voldoen tot het behalen van een credit voor dit vak. Uiteraard mag je meer uren op je stagebedrijf presteren en wordt dit zelfs aangeraden. Het geeft een niet zo goede indruk indien je nu reeds volop vakantie begint in te plannen en te berekenen tot welke dag en uur je exact moet werken.Hoe flexibeler jij omgaat hiermee, hoe flexibeler je stagebegeleider hierin zal zijn (in beide richtingen , het is een dubbelsnijdend zwaard).
+Het is belangrijk te weten dat dit cijfer (8u/dag, 4dagen/week, 12weken) een *MINIMUM-cijfer* is om aan de vereisten te voldoen tot het behalen van een credit voor dit vak. Uiteraard mag je meer uren op je stagebedrijf presteren en wordt dit zelfs aangeraden. Het geeft een niet zo goede indruk indien je nu reeds volop vakantie begint in te plannen en te berekenen tot welke dag en uur je exact moet werken.Hoe flexibeler jij omgaat hiermee, hoe flexibeler je stagementor hierin zal zijn (in beide richtingen , het is een dubbelsnijdend zwaard).
 
 Zorg gewoon dat je opdracht af geraakt, dat je veel bijleert en dat je als een professionele bachelor in een bedrijf meedraait.
 
