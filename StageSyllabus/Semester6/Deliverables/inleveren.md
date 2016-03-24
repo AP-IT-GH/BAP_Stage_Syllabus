@@ -1,4 +1,4 @@
-#Deliverables afspraken
+# Deliverables afspraken
 Alle deliverables moeten steeds via je repo ingediend worden en via mail (als pdf) bij bepaalde zaken.
 
 # Afspraken finale inleveren
