@@ -28,3 +28,20 @@ Je bent vrij om af te wijken van de hieronder voorgestelde opbouw, maar het is a
   * probleemstelling/opgave
 * **Technisch**: Er wordt een uitgebreide beschrijving van het probleem, een uitgebreide analyse van het probleem en een voldoende gedetailleerde beschrijving van de uitgewerkte oplossing verwacht. Dit als een vlot leesbare en overzichtelijke tekst,
 zodat een informatie vlug kan teruggevonden worden. Bij het opstellen van de tekst dient men erover te waken dat de beschrijving ook voldoende duidelijk is voor iemand uit het vakgebied, maar die niet noodzakelijk vertrouwd is met het specifieke onderwerp.
+  * Beschrijving gevolgde ontwikkelproces
+  * Analyse en requirements
+  * Design
+  * Implementatie
+  * Testing en validatie
+  * Gebruikte tools en technologieën
+* **Conclusie en samenvatting**
+* Uitbreidingen/Future work
+* Appendices
+* **Bibliografie/Geraadpleegde bronnen**
+
+*Voorgaande opbouw is grotendeels gebaseerd op (volgende document)[http://www.csun.edu/~shan/comp696-698/Resources/Thesis-Outline-Guide-rev1.pdf], het is aanbevolen dit document te raadplegen voor meer informatie over ieder (sub)-hoofdstuk)
+
+## FAQ Scriptie
+
+Q: De code van de software die je geschreven hebt, moet die in de scriptie staan?
+A: Al je code en bijhorende bestanden horen thuis in je repo. In je scriptie moet je geen code toevoegen. Je mag wel enkele stukken code ‘highlighten’, t.t.z. toelichten in je tekst om dat ze speciale vermelding waard zijn (je bent er fier op, ze zijn essentieel om de werking van je project te begrijpen etc.). Het is beter om je code toe te lichten in de vorm van flowchart, timing diagrammen of als verwijzing naar code in je appendix. Wens je code toe te voegen in markdown gebruik dan de apostrof syntax (zie (hier)[https://daringfireball.net/projects/markdown/syntax#code])
