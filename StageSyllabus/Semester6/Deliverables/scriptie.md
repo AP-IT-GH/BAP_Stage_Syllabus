@@ -60,9 +60,14 @@ A: Neen. Probeer zou zakelijk mogelijk te schrijven en gebruik dus liever geen i
 
 Q: Andere **schrijftips?!**
 
-A:  
+A:  Uiteraard:
 * Je schrijft geen roman, hou het dus kort en zakelijk en gebruik geen verbloemingen zoals "de code is super krachtig". Als je zaken vermeld zoals "de code is snel", moet je ook aanduiden wat hiermee wordt bedoeld (km/u?)
 * Je werk beschrijft een werkstuk dat afgerond is. Je beschrijft dus iets uit het verleden en gebruik dan ook steeds de verleden tijd en schrijft nooit in de tegenwoordige of toekomstige tijd wanneer het om beschrijvingen van je geleverde werk gaat (let hier zeker op wanneer je tekst overneemt uit je voortgangsverslagen die mogelijk werk uit de toekomst beschrijden dat je ondertussen nu wel hebt gedaan).
+* 
+
+Q: Is het in onze scriptie de bedoeling dat we een volledige uitleg geven over enkel het eindproduct, of ook over de de tussenstappen die we hiervoor maken?
+
+A: De weg ernaartoe is even belangrijk. Dus zeker ook tussenstappen geven. Stel dat je een bepaalde piste hebt gevolgd die volledig is doodgelopen , dan moet je dit zeker ook beschrijven zodat andere mensen niet jouw zelfde 'fout' maken.
 
 
 
