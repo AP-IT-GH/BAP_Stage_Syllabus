@@ -15,7 +15,8 @@ Voor inspiratie, bekijk zeker scripties van de voorbije jaren [hier](http://eaic
 Afbeeldingen, grafieken, schema’s etc. dienen bescheiden te worden gehouden. Deze mogen met andere woorden niet de helft van de scriptie in beslag nemen. De promotor zal mogelijk eisen om de hoeveelheid afbeeldingen te verkleinen. Grote hoeveelheden screenshots en diagramma's die essentieel  maar paginavullend zijn worden best naar een appendix achteraan geplaatst.
 
 ### Wordcount
-Een scriptie bestaat uit MINIMAAL 10000 woorden. Maximum 5% daarvan mag tekst van andere bronnen zijn (en dus niet uniek door jou geschreven).
+Een scriptie bestaat uit MINIMAAL 10000 woorden per student . Maximum 5% daarvan mag tekst van andere bronnen zijn (en dus niet uniek door jou geschreven).
+
 **Plagiaat**: zorg ervoor dat iedere lijn tekst van een andere bron met een duidelijke referentie wordt aangegeven. Dit geldt ook voor vertaalde teksten. 
 
 ##Inhoud
