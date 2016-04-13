@@ -7,7 +7,7 @@ Voor inspiratie, bekijk zeker scripties van de voorbije jaren [hier](http://eaic
 
 ** Geen scriptie indienen (of te laat) resulteert automatisch in het uistellen naar een volgende zittijd van je volledige bachelorproef-en stage; je mag ook niet presenteren zolang je geen scriptie hebt afgegeven **
 
-** Een scriptie moet door zowel je stagebegeleider als stagementor goedgekeurd worden voor je deze afgeeft.*
+** Een scriptie moet door zowel je stagebegeleider als stagementor goedgekeurd worden voor je deze afgeeft.**
 
 ## Vormafspraken
 ### Afbeeldingen
@@ -39,9 +39,14 @@ zodat een informatie vlug kan teruggevonden worden. Bij het opstellen van de tek
 * Appendices
 * **Bibliografie/Geraadpleegde bronnen**
 
-*Voorgaande opbouw is grotendeels gebaseerd op (volgende document)[http://www.csun.edu/~shan/comp696-698/Resources/Thesis-Outline-Guide-rev1.pdf], het is aanbevolen dit document te raadplegen voor meer informatie over ieder (sub)-hoofdstuk)
+*Voorgaande opbouw is grotendeels gebaseerd op [volgende document](http://www.csun.edu/~shan/comp696-698/Resources/Thesis-Outline-Guide-rev1.pdf), het is aanbevolen dit document te raadplegen voor meer informatie over ieder (sub)-hoofdstuk)
 
 ## FAQ Scriptie
 
 Q: De code van de software die je geschreven hebt, moet die in de scriptie staan?
-A: Al je code en bijhorende bestanden horen thuis in je repo. In je scriptie moet je geen code toevoegen. Je mag wel enkele stukken code ‘highlighten’, t.t.z. toelichten in je tekst om dat ze speciale vermelding waard zijn (je bent er fier op, ze zijn essentieel om de werking van je project te begrijpen etc.). Het is beter om je code toe te lichten in de vorm van flowchart, timing diagrammen of als verwijzing naar code in je appendix. Wens je code toe te voegen in markdown gebruik dan de apostrof syntax (zie (hier)[https://daringfireball.net/projects/markdown/syntax#code])
+A: Al je code en bijhorende bestanden horen thuis in je repo. In je scriptie moet je geen code toevoegen. Je mag wel enkele stukken code ‘highlighten’, t.t.z. toelichten in je tekst om dat ze speciale vermelding waard zijn (je bent er fier op, ze zijn essentieel om de werking van je project te begrijpen etc.). Het is beter om je code toe te lichten in de vorm van flowchart, timing diagrammen of als verwijzing naar code in je appendix. Wens je code toe te voegen in markdown gebruik dan de apostrof syntax (zie [hier](https://daringfireball.net/projects/markdown/syntax#code))
+
+Q:  In de scriptie dien je resultaten en besluiten te plaatsen. Maar wat kunnen wij daar invullen? Ons resultaat is een website en de code die op de achtergrond van de server draait.
+A: Je eigen onderwerp niet onderschatten: In resultaten toon je aan dat je project werkt (adhv bv user tests, stress tests, performance tests, etc). Ook je scriptie niet onderschatten:. Een lezer van je scriptie moet je bachelorproef volledig
+kunnen begrijpen, zonder het product zelf ooit gezien te hebben. Het is niet omdat je een puur programmatorisch iets hebt gemaakt, dat je er niet iets over in je besluit kan plaatsen (werk het zoals origineel gepland? Wat zijn verbeterpunten? Wat zijn de
+sterktes/meerwaarde van je product, etc).
