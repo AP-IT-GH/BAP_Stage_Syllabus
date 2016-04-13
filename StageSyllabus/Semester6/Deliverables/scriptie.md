@@ -5,9 +5,10 @@ Het is belangrijk dat je scriptie niet een "logboek" of samenraapsel van voortga
 
 Voor inspiratie, bekijk zeker scripties van de voorbije jaren [hier](http://eaict.ap.be/bedrijven/)
 
-** Geen scriptie indienen (of te laat) resulteert automatisch in het uistellen naar een volgende zittijd van je volledige bachelorproef-en stage; je mag ook niet presenteren zolang je geen scriptie hebt afgegeven **
+**Opgelet:**
+* Geen scriptie indienen (of te laat) resulteert automatisch in het uistellen naar een volgende zittijd van je volledige bachelorproef-en stage; je mag ook niet presenteren zolang je geen scriptie hebt afgegeven
 
-** Een scriptie moet door zowel je stagebegeleider als stagementor goedgekeurd worden voor je deze afgeeft.**
+* Een scriptie moet door zowel je stagebegeleider als stagementor goedgekeurd worden voor je deze afgeeft.
 
 ## Vormafspraken
 ### Afbeeldingen
