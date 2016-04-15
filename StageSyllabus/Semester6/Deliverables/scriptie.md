@@ -21,8 +21,8 @@ Een scriptie bestaat uit MINIMAAL 10000 woorden per student . Maximum 5% daarvan
 
 ##Inhoud
 Je bent vrij om af te wijken van de hieronder voorgestelde opbouw, maar het is aan te raden deze enkel in samenspraak met je stagementor of begeleider anders te doen. Hoofdstukken in **vet** in volgende opbouw moeten verplicht aanwezig zijn in de scriptie:
-* **Inhoudsopgave**
-* **abstract**
+* **Inhoudsopgave** (=Summary.MD, zal Table of Contents heten in output)
+* **abstract** (= README.md, zal introduction heten in output)
 * dankwoord
 * **introductie**
   * context/situering
@@ -40,6 +40,7 @@ zodat een informatie vlug kan teruggevonden worden. Bij het opstellen van de tek
 * Uitbreidingen/Future work
 * Appendices
 * **Bibliografie/Geraadpleegde bronnen**
+* **Glossary** (= Glossary.md)
 
 *Voorgaande opbouw is grotendeels gebaseerd op [volgende document](http://www.csun.edu/~shan/comp696-698/Resources/Thesis-Outline-Guide-rev1.pdf), het is aanbevolen dit document te raadplegen voor meer informatie over ieder (sub)-hoofdstuk)
 
