@@ -1,6 +1,6 @@
 # Scriptie
 
-Een essentieel van je bachelorproef is naast de stage en het werkstuk uiteraard ook de scriptie. In dit digitale document zijn alle resultaten en conclusies verwerkt en op een gestructureerde en overzichtelijke wijze geordend.
+Een essentieel onderdeel van je bachelorproef is naast de stage en het werkstuk uiteraard ook de scriptie. In dit digitale document zijn alle resultaten en conclusies verwerkt en op een gestructureerde en overzichtelijke wijze geordend.
 Het is belangrijk dat je scriptie niet een "logboek" of samenraapsel van voortgangsverslagen is. Het moet een uniek document zijn dat je volledige werkstuk, van probleemstelling tot en met finale resultaat, beschrijft zowel qua werking als hoe problemen werden opgelost.
 
 Voor inspiratie, bekijk zeker scripties van de voorbije jaren [hier](http://eaict.ap.be/bedrijven/)
@@ -20,7 +20,7 @@ Een scriptie bestaat uit MINIMAAL 10000 woorden per student . Maximum 5% daarvan
 **Plagiaat**: zorg ervoor dat iedere lijn tekst van een andere bron met een duidelijke referentie wordt aangegeven. Dit geldt ook voor vertaalde teksten. 
 
 ##Inhoud
-Je bent vrij om af te wijken van de hieronder voorgestelde opbouw, maar het is aan te raden deze enkel in samenspraak met je stagementor of begeleider anders te doen. Hoofdstukken in bet in volgende opbouw moeten verplicht aanwezig zijn in de scriptie:
+Je bent vrij om af te wijken van de hieronder voorgestelde opbouw, maar het is aan te raden deze enkel in samenspraak met je stagementor of begeleider anders te doen. Hoofdstukken in **vet** in volgende opbouw moeten verplicht aanwezig zijn in de scriptie:
 * **Inhoudsopgave**
 * **abstract**
 * dankwoord
@@ -56,7 +56,7 @@ sterktes/meerwaarde van je product, etc).
 
 Q: Ik schrijf alles in de **ik-vorm**, mag dat?
 
-A: Neen. Probeer zou zakelijk mogelijk te schrijven en gebruik dus liever geen ik of wij vorm (tenzij je een eigen mening weergeeft). Schrijf dus niet "In dit hoofdstuk beschreven ik ..." maar wel "In dit hoofdstuk wordt... beschreven".
+A: Neen. Probeer zo zakelijk mogelijk te schrijven en gebruik dus liever geen ik of wij vorm (tenzij je een eigen mening weergeeft). Schrijf dus niet "In dit hoofdstuk beschreven ik ..." maar wel "In dit hoofdstuk wordt... beschreven".
 
 Q: Andere **schrijftips?!**
 
@@ -64,7 +64,7 @@ A:  Uiteraard:
 * Je schrijft geen roman, hou het dus kort en zakelijk en gebruik geen verbloemingen zoals "de code is super krachtig". Als je zaken vermeld zoals "de code is snel", moet je ook aanduiden wat hiermee wordt bedoeld (km/u?)
 * Je werk beschrijft een werkstuk dat afgerond is. Je beschrijft dus iets uit het verleden en gebruik dan ook steeds de verleden tijd en schrijft nooit in de tegenwoordige of toekomstige tijd wanneer het om beschrijvingen van je geleverde werk gaat (let hier zeker op wanneer je tekst overneemt uit je voortgangsverslagen die mogelijk werk uit de toekomst beschrijden dat je ondertussen nu wel hebt gedaan).
 
-Q: Is het in onze scriptie de bedoeling dat we een volledige uitleg geven over enkel het eindproduct, of ook over de de tussenstappen die we hiervoor maken?
+Q: Is het in onze scriptie de bedoeling dat we een volledige uitleg geven over enkel het eindproduct, of ook over de tussenstappen die we hiervoor maken?
 
 A: De weg ernaartoe is even belangrijk. Dus zeker ook tussenstappen geven. Stel dat je een bepaalde piste hebt gevolgd die volledig is doodgelopen , dan moet je dit zeker ook beschrijven zodat andere mensen niet jouw zelfde 'fout' maken.
 
