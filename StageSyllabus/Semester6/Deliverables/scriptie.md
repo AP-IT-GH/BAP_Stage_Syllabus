@@ -69,6 +69,14 @@ Q: Is het in onze scriptie de bedoeling dat we een volledige uitleg geven over e
 
 A: De weg ernaartoe is even belangrijk. Dus zeker ook tussenstappen geven. Stel dat je een bepaalde piste hebt gevolgd die volledig is doodgelopen , dan moet je dit zeker ook beschrijven zodat andere mensen niet jouw zelfde 'fout' maken.
 
+Q: Met bovenstaande inhoud zal er 2x een introductie in de scriptie staan.
 
+A: Het is perfect mogelijk om in de summary de README.md een andere naam te geven. Dan moet je enkel nog de titel in de README file veranderen naar abstract.
+
+```
+* [Abstract](README.md)
+* [Dankwoord](book/dankwoord/dankwoord.md)
+* [Introductie](book/introductie/introductie.md)
+```
 
 
