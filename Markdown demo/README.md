@@ -97,6 +97,13 @@ Notice that there’s a tab and a linebreak in front , and a line break afterwar
 
 Inline code like this `reset --help` is done with the backtick. Make sure to use the correct one! (alt-gr+7 on my keyboard)
 
+# Page ending
+If you want to spilt a page in two parts when you convert your markdown to pdf, you can use this:
+
+    <div style="page-break-after: always;"></div>
+
+[Source](http://forums.apricitysoftware.com/t/include-pdf-pagebreak-instructions-in-markdown/152)
+
 # Useful tools
 Editor:
 * Notepad or notepad++
