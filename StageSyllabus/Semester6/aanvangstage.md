@@ -12,4 +12,4 @@ Zorg gewoon dat je opdracht af geraakt, dat je veel bijleert en dat je als een p
 Als er in het draaiboek staat minstens 12 keer 4 dagen werken, betekent dit dat je 12 weken gedurende 4 dagen in het bedrijf aanwezig moet zijn. Gelet op het woord minstens betekent dit dat je wel 5 dagen aanwezig mag zijn (indien er de vijfde dag geen andere activiteiten door de opleiding voor jullie voorzien zijn.)
 
 ### "Mag ik tijdens de schoolvakanties naar het stagebedrijf gaan?"
-Je bent enkel verzekerd tijdens de lesweekperiodes. Schoolvakanties, examenperiodes e.d. zijn dus niet verzekerd vanuit AP.
+(nieuwe afspraakà Voor alle activiteiten die kaderen in de opleiding is de student verzekert. Dus ook tijdens een stage die doorgaat in een examenreeks of eventueel tijdens het Paasverlof. Het is wel zo dat stages tijdens schoolvakanties standaard niet kunnen rekenen op stagebegeleiding vanuit de hogeschool. Maw als stage toegestaan wordt in een verlofperiode dan moet de student akkoord zijn dat hij tijdens die periode niet kan rekenen op begeleiding van zijn stagebegeleider.
