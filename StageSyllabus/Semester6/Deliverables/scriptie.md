@@ -63,7 +63,7 @@ Q: Andere **schrijftips?!**
 
 A:  Uiteraard:
 * Je schrijft geen roman, hou het dus kort en zakelijk en gebruik geen verbloemingen zoals "de code is super krachtig". Als je zaken vermeld zoals "de code is snel", moet je ook aanduiden wat hiermee wordt bedoeld (km/u?)
-* Je werk beschrijft een werkstuk dat afgerond is. Je beschrijft dus iets uit het verleden en gebruik dan ook steeds de verleden tijd en schrijft nooit in de tegenwoordige of toekomstige tijd wanneer het om beschrijvingen van je geleverde werk gaat (let hier zeker op wanneer je tekst overneemt uit je voortgangsverslagen die mogelijk werk uit de toekomst beschrijden dat je ondertussen nu wel hebt gedaan).
+* **Je werk beschrijft een werkstuk dat afgerond is**. Je beschrijft dus iets uit het verleden en gebruik dan ook steeds de *verleden tijd* en schrijft **nooit in de tegenwoordige of toekomstige tijd** wanneer het om beschrijvingen van je geleverde werk gaat (let hier zeker op wanneer je tekst overneemt uit je voortgangsverslagen die mogelijk werk uit de toekomst beschrijden dat je ondertussen nu wel hebt gedaan).
 
 Q: Is het in onze scriptie de bedoeling dat we een volledige uitleg geven over enkel het eindproduct, of ook over de tussenstappen die we hiervoor maken?
 
