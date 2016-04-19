@@ -80,3 +80,6 @@ A: Het is perfect mogelijk om in de summary de README.md een andere naam te geve
 ```
 
 
+Q: Wat behelst een abstract?
+
+A: [Bekijk enkele voorbeelden](https://writing.wisc.edu/Handbook/presentations_abstracts_examples.html)
