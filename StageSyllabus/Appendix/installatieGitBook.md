@@ -49,4 +49,4 @@ Het is aanbevolen om eerst de uitleg op https://github.com/GitbookIO/gitbook  bi
 Uiteraard zal je ook de, uiterst eenvoudige, Markdown (MD) syntax moeten leren. Hiervoor zijn tal van websites zoals https://help.github.com/articles/markdown-basics/ en http://markdowntutorial.com/ .
 
 # Tip: Snel book builden
-Telkens je je gitbook wilt compileren (naar een website of pdf) dien je bijvoorbeeld het commando `gitbook pdf` in te typen. Je kan dit proces versnellen door in de root van je gitbook een .bat bestand toe te voegen (bv `buildnbook.bat`). In dit bestand zet je dan de commando's die je wilt uitvoeren (in mijn geval: `gitbook pdf`). Telkens je nu dit .bat bestand uitvoert zal je boek gecompileerd worden.
+Telkens je je gitbook wilt compileren (naar een website of pdf) dien je bijvoorbeeld het commando `gitbook pdf` in te typen. Je kan dit proces versnellen door in de root van je gitbook een .bat bestand toe te voegen (bv `buildbook.bat`). In dit bestand zet je dan de commando's die je wilt uitvoeren (in mijn geval: `gitbook pdf`). Telkens je nu dit .bat bestand uitvoert zal je boek gecompileerd worden.
