@@ -1,4 +1,4 @@
-﻿# Scriptie
+# Scriptie
 
 Een essentieel onderdeel van je bachelorproef is naast de stage en het werkstuk uiteraard ook de scriptie. In dit digitale document zijn alle resultaten en conclusies verwerkt en op een gestructureerde en overzichtelijke wijze geordend.
 Het is belangrijk dat je scriptie niet een "logboek" of samenraapsel van voortgangsverslagen is. Het moet een uniek document zijn dat je volledige werkstuk, van probleemstelling tot en met finale resultaat, beschrijft zowel qua werking als hoe problemen werden opgelost.
