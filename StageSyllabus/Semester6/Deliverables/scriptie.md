@@ -48,7 +48,7 @@ zodat een informatie vlug kan teruggevonden worden. Bij het opstellen van de tek
 ## FAQ en veelgemaakte opmerkingen Scriptie
 Q: De **code** van de software die je geschreven hebt, moet die in de scriptie staan?
 
-A: Al je code en bijhorende bestanden horen thuis in je repo. In je scriptie moet je geen code toevoegen. Je mag wel enkele stukken code ‘highlighten’, t.t.z. toelichten in je tekst om dat ze speciale vermelding waard zijn (je bent er fier op, ze zijn essentieel om de werking van je project te begrijpen etc.). Het is beter om je code toe te lichten in de vorm van flowchart, timing diagrammen of als verwijzing naar code in je appendix. Wens je code toe te voegen in markdown gebruik dan de apostrof syntax (zie [hier](https://daringfireball.net/projects/markdown/syntax#code))
+A: Al je code en bijhorende bestanden horen thuis in je repo. In je scriptie moet je geen code toevoegen. Je mag wel enkele stukken code ‘highlighten’, t.t.z. toelichten in je tekst om dat ze speciale vermelding waard zijn (je bent er fier op, ze zijn essentieel om de werking van je project te begrijpen etc.). Het is beter om je code toe te lichten in de vorm van flowchart, timing diagrammen of als verwijzing naar code in je appendix. Wens je code toe te voegen in markdown gebruik dan de apostrof syntax (zie [hier](https://daringfireball.net/projects/markdown/syntax#code) en deze [issue-chat](https://github.com/AP-Elektronica-ICT/BAP_Stage_Syllabus/issues/23)) 
 
 Q:  In de scriptie dien je **resultaten en besluiten** te plaatsen. Maar wat kunnen wij daar invullen? Ons resultaat is een website en de code die op de achtergrond van de server draait.
 
