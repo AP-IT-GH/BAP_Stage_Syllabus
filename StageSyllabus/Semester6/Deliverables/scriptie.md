@@ -1,4 +1,4 @@
-# Scriptie
+﻿# Scriptie
 
 Een essentieel onderdeel van je bachelorproef is naast de stage en het werkstuk uiteraard ook de scriptie. In dit digitale document zijn alle resultaten en conclusies verwerkt en op een gestructureerde en overzichtelijke wijze geordend.
 Het is belangrijk dat je scriptie niet een "logboek" of samenraapsel van voortgangsverslagen is. Het moet een uniek document zijn dat je volledige werkstuk, van probleemstelling tot en met finale resultaat, beschrijft zowel qua werking als hoe problemen werden opgelost.
@@ -21,6 +21,7 @@ Een scriptie bestaat uit MINIMAAL 10000 woorden per student . Maximum 5% daarvan
 
 ##Inhoud
 Je bent vrij om af te wijken van de hieronder voorgestelde opbouw, maar het is aan te raden deze enkel in samenspraak met je stagementor of begeleider anders te doen. Hoofdstukken in **vet** in volgende opbouw moeten verplicht aanwezig zijn in de scriptie:
+* **Cover** (= cover.jpg, zijnde export van het [cover.pptx bestand](https://github.com/AP-Elektronica-ICT/BAP_Stage_StudentRepo/blob/master/Scriptie/cover.pptx) dat je in studentrepo vindt)
 * **Inhoudsopgave** (=Summary.MD, zal Table of Contents heten in output)
 * **abstract** (= README.md, zal introduction heten in output)
 * dankwoord
