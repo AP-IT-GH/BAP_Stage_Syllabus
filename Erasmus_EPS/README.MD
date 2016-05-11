@@ -4,7 +4,7 @@ In deze folder kan je alle informatie en afspraken terugvinden
 
 ## Selectie Procedure
 
-Deadline kandidaatstelling Erasmus SMS (studie):
+Deadline kandidaatstelling Erasmus (studie):
 
 1. interne deadline : 01/05/2016 - meer info (tom.peeters@ap.be)
   1.1 Motivatie mail
