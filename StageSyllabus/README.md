@@ -12,3 +12,9 @@ Deze versie bevat steeds de meest recente informatie (de pdf kan outdated zijn).
 ## Wie moet dit document volgen?
 Iedere student die is ingeschreven voor het opleidingsonderdeel "stage en bachelorproef" moet dit document volgen.
 Studenten die op Erasmus gaan of een EPS semester doen hoeven dit document **niet** te volgen.
+
+## Zoek je informatie?
+Ga naar de online versie van dit [syllabus op github](https://github.com/AP-Elektronica-ICT/BAP_Stage_Syllabus/edit/master/StageSyllabus) en gebruik de search-functionaliteit bovenaan om een bepaalde term te zoeken.
+
+##Iets onduidelijk?
+Vind je dat bepaalde informatie onduidelijk is of ontbreekt. Maak een issue zodat we dit kunnen oplossen. 
