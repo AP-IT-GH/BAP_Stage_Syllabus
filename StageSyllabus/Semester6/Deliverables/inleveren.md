@@ -4,7 +4,8 @@ Alle deliverables moeten steeds via je repo ingediend worden en via mail (als pd
 # Afspraken finale inleveren
 Je volledig portfolio (alle code, verslagen, digitale scriptie, etc) mag je digitaal afgeven door middel van een final en voorlaatste commit via github (zie timing.md)
 
-**Voorlaatste commit**: bevat de finale versies van ALLE deliverables (scriptie, logs, etc) , exclusief video, eindpresentatie en scriptiesamenvatting
+**Voorlaatste commit**: bevat de finale versies van ALLE deliverables (scriptie, logs, etc) , exclusief video, eindpresentatie en scriptiesamenvatting.
+
 **Final commit**: bevat de finale versie van de eindpresentatie, video en scriptiesamenvatting
 
 ## Opgelet
