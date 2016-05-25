@@ -1,5 +1,6 @@
 #Deliverables afspraken
 Alle deliverables moeten steeds via je repo ingediend worden en via mail (als pdf) bij bepaalde zaken.
+Geproduceerde code, designs, etc blijven eigendom van het bedrijf en plaats je niet in de repo. 
 
 # Afspraken finale inleveren
 Je volledig portfolio (alle code, verslagen, digitale scriptie, etc) mag je digitaal afgeven door middel van een final en voorlaatste commit via github (zie timing.md)
