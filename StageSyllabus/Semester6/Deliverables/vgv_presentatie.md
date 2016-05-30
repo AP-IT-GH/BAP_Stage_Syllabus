@@ -9,7 +9,10 @@ Je mailt het vgv-verslag (als pdf + link naar repo) voorts naar al je promotors 
 ##Enkele veelgestelde vgv vragen
 
 * Q Mag ik afbeeldingen e.d. toevoegen?
-* A Graag. Vaak zegt een duidelijk diagram meer dan een gecompliceerde uitleg.
+* A Graag. Vaak zegt een duidelijk diagram meer dan een gecompliceerde uitleg. 
+
+* Q Hoe leg ik het design van de frontend toe?
+* A Gebruik wireframes of mockups hiervoor. Tekstueel deze zaken beschrijven zijn niet evident en zorgen ervoor dat de lezer vaak een verkeerd beeld van de grafische zaken krijgt. 
 
 * Q moet reeds geproduceerde resultaten (code, ..) mee verstuurd worden?
 A Neen. Het VGV geeft een technisch overzicht van je status, zonder code/pcb-designs etc. Highlevel zaken zoals architecturen e.d. zijn meer dan welkom, maar geen kleine stukjes code en scripts. 
