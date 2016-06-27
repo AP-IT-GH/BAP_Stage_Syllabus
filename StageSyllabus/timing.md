@@ -7,8 +7,8 @@ De inleverdeadline is steeds *middernacht op het einde van de gegeven dag*.
 * Indien tussentijdse scriptie: 17 april
 * Mailen tweede voortgangsverslag naar stagecoordinators en promotors: 15 mei
 * Finale scriptietitel mailen naar stagecoordinators en promotors: 15 mei
-* Indienen bachelorproefdeliverables (voorlaatste commit): 10 juni
-* Eindpresentatie (laatste commit): 20-24 juni
+* Indienen bachelorproefdeliverables/scriptie (voorlaatste commit): 10 juni   (2e zit: 25 augustus)
+* Eindpresentatie (laatste commit): 20-24 juni  (2e zit: 30 augustus)
 
 #Timing indien stage in september-januari
 * Mailen eerste voortgangsverslag naar stagecoordinators en promotors: 25 oktober
