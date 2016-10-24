@@ -1,0 +1,44 @@
+name: jekyll-reveal 
+markdown: redcarpet
+highlighter: pygments
+
+baseurl: /BAP_Stage_Syllabus
+
+collections:
+  slides:
+    output: true
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: slides
+      reveal:
+        controls: true
+        progress: true
+        slideNumber: true
+        history: true
+        keyboard: true
+        overview: true
+        center: true
+        touch: true
+        loop: false
+        rtl: false
+        fragments: true
+        embedded: false
+        autoSlide: 0
+        autoSlideStoppable: true
+        mouseWheel: false
+        hideAddressBar: true
+        previewLinks: false
+        transition: default
+        transitionSpeed: default
+        backgroundTransition: default
+        viewDistance: 3
+        parallaxBackgroundImage:
+        parallaxBackgroundSize:
+        theme: moon
+        width: 1366
+        height: 768
+        margin: 0.1

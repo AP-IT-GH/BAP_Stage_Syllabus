@@ -1,0 +1,17 @@
+---
+layout: default
+title: "BAP / Stage Syllabus"
+---
+
+<div id="home">
+  <h1>BAP / Stage Syllabus</h1>
+  <h2>Verzameling van de slides ter info voor de BAP / Stage</h2>
+  <ul>
+    {% for slide in site.slides %}
+    <li>
+      <a class="slide-entry" href="{{ site.baseurl | append: slide.url }}">{{ slide.title }}</a>
+      <small>{{ slide.description }}</small>
+    </li>
+    {% endfor %}
+  </ul>
+</div>
