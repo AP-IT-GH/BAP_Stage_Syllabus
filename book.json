@@ -1,3 +1,6 @@
 {
-  "root": "./docs"
+  "root": "./book",
+  "variables":{
+  "var1":"test"
+  }
 }

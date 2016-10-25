@@ -1,4 +1,12 @@
 # Introductie
+{% if variable %}
+  It is true
+{% else %}
+  Not True
+{% endif %}
+
+{{ file.path }}
+
 
 Hier volgt alle informatie nodig in semester 5 en 6 voor de goede werking van de Stage en Bachelorproef
 

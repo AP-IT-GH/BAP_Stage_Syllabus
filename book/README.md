@@ -1,4 +1,5 @@
-﻿*Dit document geeft het algemene overzicht van het traject van een bachelorproef en stage 6 (vanaf nu BAP afgekort). Vanuit dit document wordt er dan ook verwezen naar andere relevante documenten.*
+﻿
+*Dit document geeft het algemene overzicht van het traject van een bachelorproef en stage 6 (vanaf nu BAP afgekort). Vanuit dit document wordt er dan ook verwezen naar andere relevante documenten.*
 
 De bachelorproef en stage zijn het sluitstuk van de opleiding en de concrete invulling is afhankelijk van de keuze van onderwerp en bedrijf. 
 
