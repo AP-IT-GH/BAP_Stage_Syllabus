@@ -4,7 +4,7 @@ I.v.m. de bachelorproef en stage heb je 4 personen naar wie je kan mailen/commun
 1. Stagebegeleider (AP-lector)
 2. Stagementor (bedrijf)
 3. Stagegever 
-4. Stagecoordinators (Smets en Dams)
+4. Stagecoordinators (Smets en Luyts)
 
 De eerste twee zijn je eerste en belangrijkste aanspreekpunten. Zij dienen continu op de hoogte gehouden te worden van je status.
 De stagegever zal voornamelijk in semester 5 je aanspreekpunt zijn i.v.m. de documenten die in orde gebracht moeten worden.

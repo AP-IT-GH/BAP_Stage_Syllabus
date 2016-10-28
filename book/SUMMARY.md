@@ -1,7 +1,9 @@
 # Summary
+* [Introductie](./README.md)
 * [Mogelijkheden](./mogelijkheden/README.md)
 * [Timing](./timing/README.md)
 * [Opstart](./opstart/README.md)
+* [Communicatie](./communicatie/README.md)
 * [Stage Periode](./stage-periode/README.md)
 * [Deliverables](./deliverables/README.md)
   * [Logboek](./deliverables/logboek.md)

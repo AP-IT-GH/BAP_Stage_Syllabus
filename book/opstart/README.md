@@ -1,7 +1,117 @@
 # Opstart
 De opstart van de BAP / Stage gebeurt in 5 stappen
-1. Infosessie en meedelen van mogelijke stageplaatsen
-2. Indienen van van voorkeuren 
-3. Toewijzing van stageplaats
-4. Introductie met stage plaats
-5. Nodige documenten verwerken
+1. Infosessie
+2. Toewijzing van stageplaats
+3. Introductie met stage plaats
+4. Administratieve taken
+
+## Infosessie
+Tijdens de infosessie word de algemene werking van de BAP / Stage toegelicht,
+de info van deze sessie komt uit dit stage syllabus
+
+## Toewijzing van stageplaats
+De toewijzing van de stageplaats gebeurt volgens ranking, deze is gebaseerd op
+de gewogen puntentotaal van de student. Hierdoor krijg de beste student zijn
+eerste keus. We gaan de lijst verder af, moest een student zijn eerste keus
+niet meer beschikbaar zijn dan word de tweede genomen en zo verder.
+
+## Introductie met de stageplaats
+Als de stages verdeeld zijn dan word er door de stagecoördinator een
+introductie mail verstuurd. Hierna is het aan de student om een afspraak te
+maken met het bedrijf en de nodige documenten in orde te brengen.
+
+## Administratieve taken
+Na dat de introductie is gemaakt, is het aan de student om de nodige
+administratie in orde te brengen. De nodige documenten zijn: 
+
+* het *Stagecontract/stageovereenkomst* opstellen en het stagereglement
+  ondertekenen,
+* Risicoanalyse en werkpostfiche van het bedrijf (zie voorwaarden onderaan)
+* Kopie van het Stage Syllabus voorzien aan het stagebedrijf.
+* Github repo forken en voorbereiden.
+
+
+### Stagecontract en reglement
+Deze documenten staan in [Documenten](../Documenten).
+
+Volgende stappen dien je te ondernemen:
+1. Gelieve beide documenten samen met je promotor (school en bedrijf) vooraf in
+   te vullen. 
+2. Druk de documenten in *drievoud* af.
+3. Onderteken de documenten.
+4. Geef *alle 3* de exemplaren aan je stagegever
+5. Deze dient de 3 versies te ondertekenen (mogelijk moet dit via juridische of
+   hr dienst van bedrijf te gebeuren en nadien aan jou terug bezorgen)
+6. Je levert de *3* getekende versies (met handtekeningen van jezelf en het
+   bedrijf) aan de stagecoordinator. Deze zal zorgen voor de handtekening van
+   de AP Algemeen directeur
+7. Nadien krijg je 2 exemplaren. Een is voor je stagegeven, de ander is voor
+   jezelf.
+
+*Lees het stagecontract en stagereglement grondig na opdat je duidelijk weet
+wat je rechten en plichten zijn.*
+
+
+#### Wat waar invullen afspraken
+* Wie moet wat waar invullen:
+  * Pagina 1: veld 2 "stagegever" wordt ingevuld door het bedrijf 
+  * Pagina 2: veld 3 "studentstagiar" vul je zelf in.
+  * Pagina 3: art 1 : dit spreek je samen met bedrijf af. Meestal zal je
+    functie "jr ontwikkelaar" of iets dergelijks zijn. 
+  * Pagina 2: art 2:  De eerste zin met zijn: "De stage bedraagt 48 dagen in de
+    periode van 2/2/16 tot 29/5/16
+  * Pagina 2: art 3: De eerste persoon is je (voorlopige) AP promotor, met
+    functie "lector". De 2e persoon is de (voorlopige) persoon die je dagelijks
+    gaat opvolgen van het bedrijf. Dit moet dus iemand van IT zijn of zo, niet van
+    HR.  Op de laatste lijn zet je best "e-mail, bij dringende zaken gsm".
+  * Pagina 3: art 6: Meestal zal hier 0 euro staan. Uiteraard is het bedrijf
+    vrij hier een bedrag te zetten indien nodig. 
+  * Pagina 3: art 7: dit moet de HR-dienst van het bedrijf invullen . In onze
+    sector is de kans klein dat een passen gezondheistoezicht moet gebeuren.
+  * Pagina 6: alle partijen tekenen de 3 exemplaren op hun lijntje + naam en
+    voorafgegaan door "gelezen en goedgekeurd"
+
+### Risicoanalyse
+* Ieder bedrijf met uitzondering van zelfstandigen zonder werknemers moeten deze documenten reeds bezitten voor de werknemers van het bedrijf. In dat geval dient de stagegever je een copie van deze documenten te bezorgen.
+* Indien je terecht komt bij een zelfstandige zonder werknemers mag je gebruik maken van het document risiconalyse je via dhr Smets kan verkrijgen. *Merk op dat in quasi alle andere gevallen dit document door het bedrijf zelf beschikbaar dient te worden gesteld.*
+
+### Stage Syllabus
+Zorg ervoor dat je stagegever en stagementor een versie van de stagesyllabus
+krijgen (dit document) zodat ook zij op de hoogte zijn van alle afspraken en
+regels.  Het is jouw verantwoordelijkheid dat je de afspraken erin nakomt (**je
+stagebedrijf mag, maar hoeft geen rekening te houden met de syllabus: je hebt
+m.a.w. 2 verschillende planningen die je zelfstandig zal moeten leren
+beheren**).
+
+### Github Repository
+Al je documenten en documentatie dien je in een eigen, private github repository te bewaren. Je dient daarvoor de structuur te gebruiken van de StudentRepo.
+Je moet je aan de structuur van deze repo houden. Uiteraard mag je waar nodig in de mappen extra zaken toevoegen (ordelijk houden aub).
+
+####Hoe ga je te werk
+* Ga naar Blackboard en open daar in de cursus Bachelorproef en stage 6 de "cursusdocumenten" map.
+* Volg de "invite"-link getiteld "Je private repo"
+* Maak via de invite een nieuwe repo aan. **Let op de naamgeving:** deze moet AchternaamVoornaam_BAP1516 zijn. Heet je dus Jos Stoffels dan zal je repo als naam StoffelsJos_BAP1516 noemen.
+
+Vervolgens, *mogelijkheid A*
+* Download vervolgens de mappenstructuur van de voorbeeld repo [hier](https://github.com/AP-Elektronica-ICT/BAP_Stage_StudentRepo/archive/master.zip)
+* Unzip deze zip en plaatst de content van de hoofdmap in je nieuwe repo. (dus de readme.md file en de overige mappen moeten in de root van je repo terecht komen)
+* Commit al deze nieuw toegevoegde zaken aan je repo en je kan beginnen.
+
+*Mogelijkheid B*
+
+* Open een shell met Git en clone de BAP_Stage_StudentRepo met 
+`git clone https://github.com/AP-Elektronica-ICT/BAP_Stage_StudentRepo.git`
+* Ga naar de directory met de repo
+`cd BAP_Stage_StudentRepo`
+* Verander de remote origin van originele repo naar eigen repo
+`git remote remove origin` en dan 
+`git remote add origin (jouw repo giturl hier)`
+* Push de locale repo naar GitHub 
+`git push -u origin master`
+* Commit al deze nieuw toegevoegde zaken aan je repo en je kan beginnen.
+
+ 
+#### Tijdens de stage
+* Standaard ben je geen admin van de repo. Indien je andere mensen toegang wil geven tot je repo dan dien je admin-rechten via de stagecoordinator aan te vragen. *Het is aanbevolen dat ook je stagementor toegang heeft tot je repo.*
+* Je repo hoeft niet als primaire repo gebruikt te worden voor je werk op het bedrijf. Indien het bedrijf bijvoorbeeld een eigen sourcecontrol-systeem heeft dan gebruik je deze voor al je code. 
+* Je gebruikt deze repo minstens als primaire punt voor je **scriptie, log, presentaties en verslagen**.
