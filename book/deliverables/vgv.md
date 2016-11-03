@@ -1,10 +1,10 @@
 #Voortgangsverslagen en presentatie 
 
 #Voortgangsverslag (VGV)
-Je moet 2x een voortgangsverslag in te dienen. Dit doe je door in je repo in de map VGV het bestand vgvExample.md te kopieren naar nieuw bestand getiteld "vgv1.md" voor het eerste verslag, "vgv2.md" voor het 2e verslag. 
+Je moet 3x een voortgangsverslag in te dienen. Dit doe je door in je repo in de map VGV het bestand vgvExample.md te kopieren naar nieuw bestand getiteld "vgv1.md" voor het eerste verslag, "vgv2.md" voor het 2e verslag. 
 Vervolgens vul je het respectievelijke document in conform de timing.
 
-Je mailt het vgv-verslag (als pdf + link naar repo) voorts naar al je promotors (stage én AP) .
+Je mailt het vgv-verslag (link naar repo) voorts naar al je promotors (stage én AP) .
 
 ##Enkele veelgestelde vgv vragen
 
@@ -15,7 +15,7 @@ Je mailt het vgv-verslag (als pdf + link naar repo) voorts naar al je promotors 
 * A Gebruik wireframes of mockups hiervoor. Tekstueel deze zaken beschrijven zijn niet evident en zorgen ervoor dat de lezer vaak een verkeerd beeld van de grafische zaken krijgt. 
 
 * Q moet reeds geproduceerde resultaten (code, ..) mee verstuurd worden?
-A Neen. Het VGV geeft een technisch overzicht van je status, zonder code/pcb-designs etc. Highlevel zaken zoals architecturen e.d. zijn meer dan welkom, maar geen kleine stukjes code en scripts. 
+* A Neen. Het VGV geeft een technisch overzicht van je status, zonder code/pcb-designs etc. Highlevel zaken zoals architecturen e.d. zijn meer dan welkom, maar geen kleine stukjes code en scripts. 
 
 * Q Mijn 'bronnen' waren vooral google en stackoverflow. 
 * A Dat zal bij de meeste zo zijn. Maar mogelijk heb je een goed (e)boek gelezen over de materie , dan mag dat hier zeker staan. Google als bron is geen goede bron, wel specifieke sites met goede tutorials etc horen in deze lijst.
