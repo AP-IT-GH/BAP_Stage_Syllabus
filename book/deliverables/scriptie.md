@@ -33,7 +33,7 @@ daarvan mag tekst van andere bronnen zijn (en dus niet uniek door jou
 geschreven).
 
 ### Refereren 
-Om een bron te refereren maak gebruikt van GitBook referentie syntax: zie
+Om een bron te refereren maak gebruik van GitBook referentie syntax: zie
 [hier](http://toolchain.gitbook.com/syntax/markdown.html#footnotes).
 
 **Plagiaat**: zorg ervoor dat iedere lijn tekst van een andere bron met een
