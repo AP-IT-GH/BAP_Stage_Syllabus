@@ -69,6 +69,9 @@ document](http://www.csun.edu/~shan/comp696-698/Resources/Thesis-Outline-Guide-r
 het is aanbevolen dit document te raadplegen voor meer informatie over ieder
 (sub)-hoofdstuk)
 
+## PDF Export
+Gelieve de filesize van de PDF export onder de 8 MB te houden.
+
 ## FAQ en veelgemaakte opmerkingen Scriptie
 **Q: De *code* van de software die je geschreven hebt, moet die in de scriptie
 staan?**
