@@ -19,3 +19,4 @@
 
 {% set aantalStageDagen = "60" %}
 {% set aantalStageWeken = "15" %}
+{% set docsUrl = "https://github.com/AP-Elektronica-ICT/BAP_Stage_Syllabus/tree/bap1617/docs"%}

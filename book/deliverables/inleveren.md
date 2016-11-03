@@ -6,7 +6,7 @@ het bedrijf en plaats je niet in de repo.
 # Afspraken finale inleveren
 Je volledig portfolio (alle code, verslagen, digitale scriptie, etc) mag je
 digitaal afgeven door middel van een final en voorlaatste commit via github
-(zie timing.md)
+(zie [Timing](../timing/README.md))
 
 **Voorlaatste commit**: bevat de finale versies van ALLE deliverables
 (scriptie, logs, etc) , exclusief video, eindpresentatie en

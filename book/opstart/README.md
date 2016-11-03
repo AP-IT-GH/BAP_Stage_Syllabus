@@ -1,3 +1,4 @@
+{% import "../vars.md" as vars %}
 # Opstart
 De opstart van de BAP / Stage gebeurt in 5 stappen
 1. Infosessie
@@ -32,7 +33,7 @@ administratie in orde te brengen. De nodige documenten zijn:
 
 
 ### Stagecontract en reglement
-Deze documenten staan in [Documenten](../Documenten).
+Deze documenten staan in [Documenten]({{ vars.docsUrl }}).
 
 Volgende stappen dien je te ondernemen:
 1. Gelieve beide documenten samen met je promotor (school en bedrijf) vooraf in
