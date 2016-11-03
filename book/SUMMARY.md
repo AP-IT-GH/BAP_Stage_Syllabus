@@ -1,6 +1,7 @@
 # Summary
 * [Introductie](./README.md)
 * [Mogelijkheden](./mogelijkheden/README.md)
+  * [Erasmus/EPS](./mogelijkheden/erasmus_eps.md)
 * [Timing](./timing/README.md)
 * [Opstart](./opstart/README.md)
 * [Communicatie](./communicatie/README.md)
