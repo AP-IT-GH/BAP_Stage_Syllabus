@@ -7,7 +7,6 @@
 * [Communicatie](./communicatie/README.md)
 * [Stage Periode](./stage-periode/README.md)
 * [Deliverables](./deliverables/README.md)
-  * [Inleveren](./deliverables/inleveren.md)
   * [Logboek](./deliverables/logboek.md)
   * [Voortgangsverslagen](./deliverables/vgv.md)
   * [Tussentijdse Scriptie](./deliverables/tussentijdse_scriptie.md)
