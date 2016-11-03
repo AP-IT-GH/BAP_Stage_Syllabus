@@ -12,6 +12,7 @@
   * [Voortgangsverslagen](./deliverables/vgv.md)
   * [Tussentijdse Scriptie](./deliverables/tussentijdse_scriptie.md)
   * [Tussentijdse Presentatie](./deliverables/tussentijdse_presentatie.md)
+  * [Scriptie Titel](./deliverables/titel.md)
   * [Scriptie](./deliverables/scriptie.md)
   * [Eindpresentatie](./deliverables/eindpresentatie.md)
 * [Evaluatie](./evaluatie/evaluatie.md)

@@ -48,6 +48,7 @@ Volgende stappen dien je te ondernemen:
    de AP Algemeen directeur
 7. Nadien krijg je 2 exemplaren. Een is voor je stagegeven, de ander is voor
    jezelf.
+8. Stagecontract toevoegen als PDF aan de je BAP/Stage repo.
 
 *Lees het stagecontract en stagereglement grondig na opdat je duidelijk weet
 wat je rechten en plichten zijn.*
