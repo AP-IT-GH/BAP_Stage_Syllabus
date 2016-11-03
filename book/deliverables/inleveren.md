@@ -9,11 +9,9 @@ digitaal afgeven door middel van een final en voorlaatste commit via github
 (zie [Timing](../timing/README.md))
 
 **Voorlaatste commit**: bevat de finale versies van ALLE deliverables
-(scriptie, logs, etc) , exclusief video, eindpresentatie en
-scriptiesamenvatting.
+(scriptie, logs, etc) , exclusief eindpresentatie.
 
-**Final commit**: bevat de finale versie van de eindpresentatie, video en
-scriptiesamenvatting
+**Final commit**: bevat de finale versie van de eindpresentatie.
 
 ## Opgelet
 

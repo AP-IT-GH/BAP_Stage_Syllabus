@@ -11,7 +11,7 @@ De stagegever zal voornamelijk in semester 5 je aanspreekpunt zijn i.v.m. de doc
 De stagecoordinators contacteer je bij vragen over de algemene werking van de stage en bachelorproef. Bij twijfel mag je deze steeds in cc zetten.
 
 ##Taalkeuze
-Alle documenten (scriptie, scriptiesamenvatting, etc.) moeten in het Nederlands opgesteld te worden. Uitzonderingen hierop zijn:
+Alle documenten (scriptie, etc.) moeten in het Nederlands opgesteld te worden. Uitzonderingen hierop zijn:
 * Erasmus-studenten: er dient met de promotor(s) ter plaatse afgesproken te worden welke documenten in het Engels en welke in het Nederlands mogen gemaakt worden.
 * Expliciete vraag van het bedrijf: Indien de bedrijfspromotor nadrukkelijk vraagt om je scriptie in het Engels op te stellen, kan dit in samenspraak met de stagebegeleider.
 
