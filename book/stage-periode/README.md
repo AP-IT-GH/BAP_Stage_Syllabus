@@ -7,6 +7,10 @@ dat {{ vars.aantalStageDagen }} dagen op een bedrijf aan je bachelorproefwerken
 meer dan voldoet als stage.
 
 ## Veelgestelde vragen
+
+### "Is de BAP/Stage combineerbaar met andere vakken"
+Dit is zeer moeilijk. Je ben niet op de campus hierdoor is moeilijk om aanwezig te zijn.
+
 ### "Hoeveel uren moet ik op het bedrijf presteren?"
 We krijgen van enkele bedrijven geregeld (terecht) de opmerking dat sommige van
 jullie het vereist aantal werkuren/week nogal heel letterlijk nemen.  Het is
@@ -28,6 +32,12 @@ werken, betekent dit dat je {{ vars.aantalStageWeken }} weken gedurende 4 dagen
 in het bedrijf aanwezig moet zijn. Gelet op het woord minstens betekent dit dat
 je wel 5 dagen aanwezig mag zijn (indien er de vijfde dag geen andere
 activiteiten door de opleiding voor jullie voorzien zijn.)
+
+### "Kan ik een vakantie inplannen?"
+Enkel met toestemming van het stagebedrijf kan je een vakantie inplannen,
+bespreek dit goed. Je kan niet meer dan 15 dagen opnemen. Vergeet ook niet dat
+je nog enkele dagen op het school aanwezig moet zijn. Deze dagen horen hier ook
+bij.
 
 ### "Mag ik tijdens de schoolvakanties naar het stagebedrijf gaan?"
 Voor alle activiteiten die kaderen in de opleiding is de student verzekert. Dus
