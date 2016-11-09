@@ -60,8 +60,8 @@ wat je rechten en plichten zijn.*
   * Pagina 2: veld 3 "studentstagiar" vul je zelf in.
   * Pagina 3: art 1 : dit spreek je samen met bedrijf af. Meestal zal je
     functie "jr ontwikkelaar" of iets dergelijks zijn. 
-  * Pagina 2: art 2:  De eerste zin met zijn: "De stage bedraagt 48 dagen in de
-    periode van 2/2/16 tot 29/5/16
+  * Pagina 2: art 2:  De eerste zin met zijn: "De stage bedraagt {{ vars.aantalStageDagen }}  dagen in de
+    periode van {{ vars.startStage }} tot {{ vars.eindeStage }}
   * Pagina 2: art 3: De eerste persoon is je (voorlopige) AP promotor, met
     functie "lector". De 2e persoon is de (voorlopige) persoon die je dagelijks
     gaat opvolgen van het bedrijf. Dit moet dus iemand van IT zijn of zo, niet van

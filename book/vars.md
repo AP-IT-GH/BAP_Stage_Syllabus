@@ -24,4 +24,5 @@
 {% set huidigAcaJaar = "2016 - 2017" %}
 {% set volgendAcaJaar = "2017 - 2018" %}
 
-{% set regFormUrl ="https://docs.google.com/forms/d/e/1FAIpQLSeXz6O-9Qlvn-YC-rj9mLVRtSKYH9HxSlOW7kaOWXGN6NpRmg/viewform" %}
+{% set regFormUrl = "https://docs.google.com/forms/d/e/1FAIpQLSeXz6O-9Qlvn-YC-rj9mLVRtSKYH9HxSlOW7kaOWXGN6NpRmg/viewform" %}
+{% set ghClassUrl ="TBD" %}
