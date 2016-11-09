@@ -86,8 +86,13 @@ m.a.w. 2 verschillende planningen die je zelfstandig zal moeten leren
 beheren**).
 
 ### Github Repository
-Al je documenten en documentatie dien je in een eigen, private github repository te bewaren. Je dient daarvoor de structuur te gebruiken van de StudentRepo.
-Je moet je aan de structuur van deze repo houden. Uiteraard mag je waar nodig in de mappen extra zaken toevoegen (ordelijk houden aub).
+Al je documenten en documentatie dien je in te schrijven voor de GitHub Classroom. Je dient daarvoor de structuur te gebruiken van de *BAP StudentRepo*.
+Uiteraard mag je waar nodig in de mappen extra zaken toevoegen (ordelijk houden
+aub). De inhoud van deze repo is eigendom van de AP Hogeschool. Bespreek wel
+met het bedrijf, welke informatie je juist mag delen, zodat er geen IP word
+"gemixt".
+
+Je kan je [hier]({{ vars.ghClassUrl }}) inschrijven in de classroom.
 
 ####Hoe ga je te werk
 * Ga naar Blackboard en open daar in de cursus Bachelorproef en stage 6 de "cursusdocumenten" map.
