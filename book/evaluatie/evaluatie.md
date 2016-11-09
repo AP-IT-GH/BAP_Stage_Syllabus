@@ -2,13 +2,15 @@
 #Evaluatie
 
 ##Beoordelingscriteria
-Je wordt beoordeeld op 4 aspecten:
+Je wordt beoordeeld op 5 aspecten:
 * Werkstuk: Je finale product en de (technische) weg ernaartoe (ook een niet
   werkend product kan een perfecte scoren behalen)
 * Je stage: je professionele houding op het bedrijf, opvolgen van deadlines,
   communicatie, etc
+* Portfolio: Optijd inleveren van de portfolio stukken in je StudentRepo
 * Je eindpresentatie en bevraging nadien
 * Je finale scriptie
+
 
 ## Met 2 werken
 Studenten die met 2 aan een bachelorproef werken zullen sowieso ook voor
@@ -23,27 +25,6 @@ wanneer je in team werkt ([hier](../deliverables/README.md)).
 promotors zijn er enkel om je te helpen en bij te sturen indien je actief
 deelneemt aan dit geheel. Er wordt steeds verwacht dat jij de eerste actie
 onderneemt. De promotor zal m.a.w. eerder reactief ipv pro-actief optreden.*
-
-## Evaluatietool
-Voor de evaluatie van de bachelorproef maken we gebruik van een tool die
-ontwikkeld werd door onze collega's van de Katholieke Hogeschool Sint. Lieven
-te Gent. Deze tool garandeert een gestructureerde en objectieve beoordeling van
-alle studenten.
-
-De tool, die ter inzage beschikbaar is voor de studenten (via
-[hier]({{ vars.docsUrl }})),
-wordt door de promotoren van de bachelorproeven tijdens het academiejaar
-ingevuld. In de deze tool zijn alle leerdoelen en competenties van de
-bachelorproef en stage opgenomen. Er wordt voor iedere student en score gegeven
-op alle competenties en leerdoelen. Het eindresultaat is een score per leerdoel
-waaruit de student duidelijk kan afleiden wat de sterke en wat de zwakke punten
-van de bachelorproef waren. Door deze scores per leerdoel op te tellen komen we
-uiteindelijk tot het puntentotaal voor de bachelorproef.
-
-Deze tool wordt ingevuld in samenspraak met het gehele docententeam, alsook de
-stagementoren en juryleden. Om te voorkomen dat de evaluatie niet evenwaardig
-zal gebeuren, zullen alle lectoren (en externe promotoren) minstens 2
-bachelorproeven vergelijken.
 
 ## Tweede zittijd gebruiken
 Indien een student in eerste zittijd onvoldoende haalt (of beslist om de
