@@ -20,3 +20,8 @@
 {% set aantalStageDagen = "60" %}
 {% set aantalStageWeken = "15" %}
 {% set docsUrl = "https://github.com/AP-Elektronica-ICT/BAP_Stage_Syllabus/tree/bap1617/docs"%}
+
+{% set huidigAcaJaar = "2016 - 2017" %}
+{% set volgendAcaJaar = "2017 - 2018" %}
+
+{% set regFormUrl ="https://docs.google.com/forms/d/e/1FAIpQLSeXz6O-9Qlvn-YC-rj9mLVRtSKYH9HxSlOW7kaOWXGN6NpRmg/viewform" %}

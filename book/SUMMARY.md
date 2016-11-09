@@ -15,4 +15,8 @@
   * [Scriptie](./deliverables/scriptie.md)
   * [Eindpresentatie](./deliverables/eindpresentatie.md)
 * [Evaluatie](./evaluatie/evaluatie.md)
+* [Voor Bedrijven](./voor-bedrijven/README.md)
+   * [Vereisten](./voor-bedrijven/vereisten.md)
+   * [Onderwerp](./voor-bedrijven/onderwerp.md)
+   * [Profiel Student](./voor-bedrijven/profiel_student.md)
 
