@@ -20,7 +20,6 @@ stagecoordinator***
 |{{ vars.infoSessieStudenten }}   |Infosessie + bekendmaking mogelijke stage plaatsen |
 |{{ vars.deadLineVoorkeuren }}    |Indienen voorkeuren beschikbare stageplaatsen      |
 |{{ vars.toewijzingStage }}       |Bekendmaking toegewezen stageplaatsen              |
-|{{ vars.toewijzingStage }}       |Introductie met stageplaats                        |
 |{{ vars.deadlineStageDocs}}      |Deadline stagedocumenten                           |
 |{{ vars.startStage }}            |Start stage                                        |
 |{{ vars.deadlineVgv1 }}          |Deadline voortgansverslag #1                       |

@@ -3,9 +3,9 @@
 Een veelgestelde vraag is wat ‘goede bachelorproefonderwerpen- en
 samenwerkingen’ zijn.
 
-Het beste’ model is die waarbij het bedrijf een bepaald idee voor
-product-prototype heeft en dan vervolgens samen met de student en promotor(s)
-zoekt naar een projectvoorstel waarin alle partijen zich kunnen vinden.
+Het beste’ model is die waarbij het bedrijf een idee voor product/prototype
+heeft en vervolgens samen met de student en promotor(s) zoekt naar een
+projectvoorstel waarin alle partijen zich kunnen vinden.
 
 Sommige bedrijven gebruiken bijvoorbeeld de bachelorproef om een bepaalde
 nieuwe technologie of omgeving te onderzoeken (d.m.v. een demonstrator te maken
