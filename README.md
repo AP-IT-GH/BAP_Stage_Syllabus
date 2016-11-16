@@ -10,5 +10,4 @@ De pdf versie van de syllabus kan u hier terugvinden:
 https://www.gitbook.com/download/pdf/book/luytsm/bap-stage-syllabus
 
 De presentatie verbonden aan dit syllabus kan u hier terugvinden:  
-https://luytsm.gitbooks.io/bap-stage-syllabus/content/
-
+http://ap-elektronica-ict.github.io/BAP_Stage_Syllabus/
