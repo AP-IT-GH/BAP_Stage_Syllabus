@@ -22,8 +22,8 @@ stagecoordinator***
 |{{ vars.toewijzingStage }}       |Bekendmaking toegewezen stageplaatsen              |
 |{{ vars.deadlineStageDocs}}      |Deadline stagedocumenten                           |
 |{{ vars.startStage }}            |Start stage                                        |
-|{{ vars.deadlineVgv1 }}          |Deadline voortgansverslag #1                       |
-|{{ vars.deadlineVgv2 }}          |Deadline voortgansverslag #2                       |
+|{{ vars.deadlineVgv1 }}          |Deadline voortgangsverslag #1  + Blueprint project |
+|{{ vars.deadlineVgv2 }}          |Deadline voortgangsverslag #2                      |
 |{{ vars.tussenPresentatie }}     |Tussentijdse presentatie                           |
 |{{ vars.tussenScriptie }}        |Deadline tussentijdse scriptie                     |
 |{{ vars.deadlineFinaleTitel }}   |Deadline finale scriptie titel                     |
