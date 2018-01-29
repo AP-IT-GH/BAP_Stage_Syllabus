@@ -4,19 +4,7 @@ In deze folder kan je alle informatie en afspraken terugvinden
 
 ## Selectie Procedure
 
-Deadline kandidaatstelling Erasmus (studie):
-
-1. interne deadline : 01/05/2016 - meer info (tom.peeters@ap.be)
-  1.1 Motivatie mail
-  1.2 Geslaagd voor het tweede jaar
-
-2. na selectie binnen je opleiding --> registratie in Mobility online (tot en met de stap "print application form") - deadline: 15/06/2016
-
-3. na selectie binnen je opleiding --> versturen financiële documenten door student naar STUVO (erasmus.stuvo@ap.be) - deadline 15/06/2016.
-
-Alle info terug te vinden op blackboard > Info Studenten AP > Internationalisering
-
-
+Alle informatie hierover kan je krijgen bij de lector die internationalisering opvolgt : Tom Peeters (tom.peeters@ap.be)
 
 Onze buitenlandse partners
 - http://www.oamk.fi/en
@@ -42,4 +30,4 @@ In a European Project Semester students work together in an international team o
 
 - EPS in Antwerpen: http://eps.ap.be/
 - EPS in Europa: http://www.europeanprojectsemester.eu/info/Introduction
-
+ for more detailed info, please contact tom.peeters@ap.be
