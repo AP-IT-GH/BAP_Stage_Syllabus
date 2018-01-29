@@ -1,7 +1,7 @@
 ﻿{% import "vars.md" as vars %}
 #Introductie
 *Dit document geeft het algemene overzicht van het traject van een
-bachelorproef en stage 6 (vanaf nu BAP afgekort). Vanuit dit document wordt er
+bachelorproef (afkorting : BAP) en stage . Vanuit dit document wordt er
 dan ook verwezen naar andere relevante documenten.*
 
 De bachelorproef en stage zijn het sluitstuk van de opleiding en de concrete
@@ -30,5 +30,5 @@ en gebruik de search-functionaliteit bovenaan om een bepaalde term te zoeken.
 
 ##Iets onduidelijk?
 Vind je dat bepaalde informatie onduidelijk is of ontbreekt. Maak een issue
-zodat we dit kunnen oplossen. 
+zodat we dit kunnen oplossen. Of contacteer de stagecoördinator per mail.
 
