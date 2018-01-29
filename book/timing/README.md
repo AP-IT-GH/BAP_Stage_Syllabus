@@ -27,7 +27,7 @@ stagecoordinator***
 |{{ vars.tussenPresentatie }}     |Tussentijdse presentatie                           |
 |{{ vars.tussenScriptie }}        |Deadline tussentijdse scriptie                     |
 |{{ vars.deadlineFinaleTitel }}   |Deadline finale scriptie titel                     |
-|{{ vars.deadlineVgv3 }}          |Deadline Voortgansverslag #3                       |
+|{{ vars.deadlineVgv3 }}          |Deadline Voortgangsverslag #3                      |
 |{{ vars.eindeStage }}            |Einde stage                                        |
 |{{ vars.deadlinePortfolio }}     |Deadline eindportfolio / scriptie                  |
 |{{ vars.eindPresentatie }}       |Eindpresentatie                                    |
