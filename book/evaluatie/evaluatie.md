@@ -2,12 +2,11 @@
 #Evaluatie
 
 ##Beoordelingscriteria
-Je wordt beoordeeld op 5 aspecten:
+Je wordt beoordeeld op volgende aspecten:
 * Werkstuk: Je finale product en de (technische) weg ernaartoe (ook een niet
   werkend product kan een perfecte scoren behalen)
 * Je stage: je professionele houding op het bedrijf, opvolgen van deadlines,
   communicatie, etc
-* Portfolio: Optijd inleveren van de portfolio stukken in je StudentRepo
 * Je eindpresentatie en bevraging nadien
 * Je finale scriptie
 
