@@ -33,13 +33,18 @@ te brengen. Buiten de documenten, dient het verkennend gesprek ook om het
 onderwerp voor de BAP/Stage te bespreken en eventueel bij te sturen. Maak de
 student ook duidelijk met welke technologiën hij/zij zal werken tijdens de
 stage zodat hij zich reeds kan voorbereiden.
+Maak bij voorkeur hier ook al de nodige afspraken omtrent aanwezigheid, werkplek en benodigdheden. De student beschikt normaal reeds over een laptop maar de stagegever kan beslissen dat de student enkel toestellen van de stageplaats mag gebruiken
 
 
 
 Na afronding van de administratie en het bepalen van het onderwerp, kan de
 stage van start gaan. Voor studenten met een model traject gaat dit door tussen
-eind januari en begin juni gedurende een periode van 15 weken.
+eind januari en begin juni gedurende 60 dagen die over een periode van 15 weken verdeeld worden. Voor de studenten die een aangepast traject volgen gaat dit door van het begin van het academiejaar tot en met de Tweede werkweek van januari.
 
+Bij de start worden alle praktische zaken duidelijk afgesproken. De stagebegeleider zal in de 2 weken volgend op de start van de stage contact opnemen met de stageplaats om te verifiëren of de start goed verlopen is.
+
+van het bedrijf wordt verwacht dat er voor de student een werkplek voorzien wordt, dat de studenten een duidelijk en ondubbelzinnig beschreven opdracht krijgt en dat de student op technisch vlak begeleid wordt. Onder deze begeleiding wordt verstaan dat de student een stagemlentor toegewezen krijgt die het aanspreekpunt is tijdens de stage. De stagementor moet voor de student vlot bereikbaar zijn zodat zijn bachelorproef niet in het gedrang kan komen.
+Tevens wordt van het bedrijf verwacht dat er feedback gegeven wordt aan de stagebegeleider en dat zij op vraag van de stagecoördinator een eindbeoordeling indienen. Er wordt ook gevraagd dat iemand van het stagebedrijf aanwezig kan zijn bij de eindpresentatie.
 
 ## Meer informatie
 
