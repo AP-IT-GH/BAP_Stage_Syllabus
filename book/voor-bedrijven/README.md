@@ -35,9 +35,10 @@ student ook duidelijk met welke technologiën hij/zij zal werken tijdens de
 stage zodat hij zich reeds kan voorbereiden.
 
 
+
 Na afronding van de administratie en het bepalen van het onderwerp, kan de
 stage van start gaan. Voor studenten met een model traject gaat dit door tussen
-eind januari en begin juni. Een periode van 15 weken.
+eind januari en begin juni gedurende een periode van 15 weken.
 
 
 ## Meer informatie
