@@ -73,6 +73,9 @@ document](http://www.csun.edu/~shan/comp696-698/Resources/Thesis-Outline-Guide-r
 het is aanbevolen dit document te raadplegen voor meer informatie over ieder
 (sub)-hoofdstuk)
 
+## Gebruik de informatie van voorbije cursussen
+In de lessen Communicatie en Professionalisering heb je instructies gekregen over het schrijven van professionele teksten en het gebruik van referenties. Het document van Taalwijzer/schrijfwijzer staat op Digitap (bij Stage en BAP) ter referentie voor wie het cursusmateriaal niet meer ter beschikking heeft.
+
 ## PDF Export
 Gelieve de filesize van de PDF export onder de 8 MB te houden.
 
