@@ -46,7 +46,7 @@ Volgende stappen dien je te ondernemen:
 6. Je levert de *3* getekende versies (met handtekeningen van jezelf en het
    bedrijf) aan de stagecoordinator. Deze zal zorgen voor de handtekening van
    de AP Algemeen directeur
-7. Nadien krijg je 2 exemplaren. Een is voor je stagegeven, de ander is voor
+7. Nadien krijg je 2 exemplaren. Een is voor je stagegever, de ander is voor
    jezelf.
 8. Stagecontract toevoegen als PDF aan de je BAP/Stage repo.
 
@@ -75,7 +75,9 @@ wat je rechten en plichten zijn.*
 
 ### Risicoanalyse
 * Ieder bedrijf met uitzondering van zelfstandigen zonder werknemers moeten deze documenten reeds bezitten voor de werknemers van het bedrijf. In dat geval dient de stagegever je een copie van deze documenten te bezorgen.
-* Indien je terecht komt bij een zelfstandige zonder werknemers mag je gebruik maken van het document risiconalyse je via dhr Smets kan verkrijgen. *Merk op dat in quasi alle andere gevallen dit document door het bedrijf zelf beschikbaar dient te worden gesteld.*
+* Indien je terecht komt bij een zelfstandige zonder werknemers mag je gebruik maken van het document risiconalyse je via dhr Smets kan verkrijgen.*Merk op dat in quasi alle andere gevallen dit document door het bedrijf zelf beschikbaar dient te worden gesteld.*
+* Het is belangrijk dat je de juiste versie afgeeft. Indien het bedrijf werknemers heeft is het zinloos het ter beschikking gestelde document te gebruiken aangezien dit document in dat geval toch niet geldig is.
+
 
 ### Stage Syllabus
 Zorg ervoor dat je stagegever en stagementor een versie van de stagesyllabus
@@ -94,10 +96,10 @@ met het bedrijf, welke informatie je juist mag delen, zodat er geen IP word
 
 Je kan je [hier]({{ vars.ghClassUrl }}) inschrijven in de classroom.
 
-####Hoe ga je te werk
-* Ga naar Blackboard en open daar in de cursus Bachelorproef en stage 6 de "cursusdocumenten" map.
+#### Hoe ga je te werk
+* Ga naar Digitap en open daar in de cursus Bachelorproef en stage de "cursusdocumenten" map.
 * Volg de "invite"-link getiteld "Je private repo"
-* Maak via de invite een nieuwe repo aan. **Let op de naamgeving:** deze moet AchternaamVoornaam_BAP1516 zijn. Heet je dus Jos Stoffels dan zal je repo als naam StoffelsJos_BAP1516 noemen.
+* Maak via de invite een nieuwe repo aan. **Let op de naamgeving:** deze moet AchternaamVoornaam_BAP1718 zijn. Heet je dus Jos Stoffels dan zal je repo als naam StoffelsJos_BAP1718 noemen.
 
 Vervolgens, *mogelijkheid A*
 * Download vervolgens de mappenstructuur van de voorbeeld repo [hier](https://github.com/AP-Elektronica-ICT/BAP_Stage_StudentRepo/archive/master.zip)
