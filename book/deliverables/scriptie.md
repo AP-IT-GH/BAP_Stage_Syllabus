@@ -6,6 +6,7 @@ geordend.  Het is belangrijk dat je scriptie niet een "logboek" of samenraapsel
 van voortgangsverslagen is. Het moet een uniek document zijn dat je volledige
 werkstuk, van probleemstelling tot en met finale resultaat, beschrijft zowel
 qua werking als hoe problemen werden opgelost.
+In de lessen Communicatie en Professionalisering heb je instructies gekregen over het schrijven van professionele teksten en het gebruik van referenties. Het document van Taalwijzer/schrijfwijzer staat op Digitap (bij Stage en BAP) ter referentie voor wie het cursusmateriaal niet meer ter beschikking heeft.
 
 Voor inspiratie, bekijk zeker scripties van de voorbije jaren
 [hier](http://eaict.ap.be/bedrijven/)
@@ -17,6 +18,9 @@ Voor inspiratie, bekijk zeker scripties van de voorbije jaren
 
 * Een scriptie moet door zowel je stagebegeleider als stagementor goedgekeurd
   worden voor je deze afgeeft.
+  
+* Taal- en spellingsfouten zijn in een scriptie onaanvaardbaar. 
+ Je laat daarom best je scriptie even nalezen door iemand die je taal- en spellingsfouten er kan uithalen
 
 ## Vormafspraken
 
@@ -39,7 +43,7 @@ Om een bron te refereren maak gebruik van GitBook referentie syntax: zie
 **Plagiaat**: zorg ervoor dat iedere lijn tekst van een andere bron met een
 duidelijke referentie wordt aangegeven. Dit geldt ook voor vertaalde teksten. 
 
-##Inhoud
+## Inhoud
 Je bent vrij om af te wijken van de hieronder voorgestelde opbouw, maar het is aan te raden deze enkel in samenspraak met je stagementor of begeleider anders te doen. Hoofdstukken in **vet** in volgende opbouw moeten verplicht aanwezig zijn in de scriptie:
 * **Cover** (= cover.jpg, zijnde export van het [cover.pptx bestand](https://github.com/AP-Elektronica-ICT/BAP_Stage_StudentRepo/blob/master/Scriptie/cover.pptx) dat je in studentrepo vindt)
 * **Inhoudsopgave** (=Summary.MD, zal Table of Contents heten in output)
@@ -74,7 +78,7 @@ het is aanbevolen dit document te raadplegen voor meer informatie over ieder
 (sub)-hoofdstuk)
 
 ## Gebruik de informatie van voorbije cursussen
-In de lessen Communicatie en Professionalisering heb je instructies gekregen over het schrijven van professionele teksten en het gebruik van referenties. Het document van Taalwijzer/schrijfwijzer staat op Digitap (bij Stage en BAP) ter referentie voor wie het cursusmateriaal niet meer ter beschikking heeft.
+
 
 ## PDF Export
 Gelieve de filesize van de PDF export onder de 8 MB te houden.

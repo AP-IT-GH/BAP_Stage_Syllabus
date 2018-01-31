@@ -6,6 +6,8 @@ De presentatie gebeurt in het Nederlands aan de hand van een slideshowpresentati
 * de presentatie gebeurt met een eigen laptop of met de PC van het auditorium
 * de presentatie moet bij aanvang als final commit naar je repo geupload worden. 
 * je kiest zelf de layout en vorm (ppt, prezi) van je presentatiedocument
+* Taal- en spellingsfouten zijn in een presentatie onaanvaardbaar. 
+ Je laat daarom best je presentatie even nalezen door iemand die je taal- en spellingsfouten er kan uithalen
 
 **Belangrijk: Maak in je eerste of 2e slide steeds heel duidelijk wat de context van je BAP was. Toon bijvoorbeeld een case waarin jouw product tot uiting komt. Deze slide geeft maw een goede samenvatting en antwoord op de vraag “Wat heb je eigenlijk gemaakt en wat is het nut ervan?”**
 

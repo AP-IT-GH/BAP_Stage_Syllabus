@@ -6,7 +6,7 @@ het bedrijf en plaats je niet in de repo.
 # Afspraken finale inleveren
 Je volledig portfolio (alle code, verslagen, digitale scriptie, etc) mag je
 digitaal afgeven door middel van een final en voorlaatste commit via github
-(zie [iming](../timing/README.md))
+(zie [timing](../timing/README.md))
 
 **Voorlaatste commit**: bevat de finale versies van ALLE deliverables
 (scriptie, logs, etc) , exclusief eindpresentatie.
@@ -37,7 +37,7 @@ Samen:
 * Werkstuk/'eindproduct'
 * Eindpresentatie
 
-##Opgelet
+## Opgelet
 Het is niet automatisch dat je als team wordt beschouwd indien je samen op
 hetzelfde bedrijf zit. Gelieve met je promotors héél duidelijk kort te sluiten
 of jullie als team mogen beschouwd worden of niet (concreet: je hebt één en
