@@ -40,7 +40,7 @@ je nog enkele dagen op het school aanwezig moet zijn. Deze dagen horen hier ook
 bij.
 
 ### "Mag ik tijdens de schoolvakanties naar het stagebedrijf gaan?"
-Voor alle activiteiten die kaderen in de opleiding is de student verzekert. Dus
+Voor alle activiteiten die kaderen in de opleiding is de student verzekerd. Dus
 ook tijdens een stage die doorgaat in een examenreeks of eventueel tijdens het
 Paasverlof. Het is wel zo dat stages tijdens schoolvakanties standaard niet
 kunnen rekenen op stagebegeleiding vanuit de hogeschool. Maw als stage
