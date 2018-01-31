@@ -5,6 +5,7 @@ De opstart van de BAP / Stage gebeurt in 5 stappen
 2. Toewijzing van stageplaats
 3. Introductie met stage plaats
 4. Administratieve taken
+5. start stage op stageplaats
 
 ## Infosessie
 Tijdens de infosessie word de algemene werking van de BAP / Stage toegelicht,
