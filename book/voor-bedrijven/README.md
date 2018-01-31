@@ -43,8 +43,7 @@ eind januari en begin juni gedurende 60 dagen die over een periode van 15 weken 
 
 Bij de start worden alle praktische zaken duidelijk afgesproken. De stagebegeleider zal in de 2 weken volgend op de start van de stage contact opnemen met de stageplaats om te verifiëren of de start goed verlopen is.
 
-van het bedrijf wordt verwacht dat er voor de student een werkplek voorzien wordt, dat de studenten een duidelijk en ondubbelzinnig beschreven opdracht krijgt en dat de student op technisch vlak begeleid wordt. Onder deze begeleiding wordt verstaan dat de student een stagemlentor toegewezen krijgt die het aanspreekpunt is tijdens de stage. De stagementor moet voor de student vlot bereikbaar zijn zodat zijn bachelorproef niet in het gedrang kan komen.
-Tevens wordt van het bedrijf verwacht dat er feedback gegeven wordt aan de stagebegeleider en dat zij op vraag van de stagecoördinator een eindbeoordeling indienen. Er wordt ook gevraagd dat iemand van het stagebedrijf aanwezig kan zijn bij de eindpresentatie.
+
 
 ## Meer informatie
 

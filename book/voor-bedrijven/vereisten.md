@@ -12,6 +12,10 @@
 4. Het stagebedrijf voorziet de nodige materialen voor het voltooien van de
    BAP/stage. De student heeft een eigen laptop, deze moet niet voorzien
    worden.
+   
+5. Het stagebedrijf geeft feedback aan de stagebegeleider en dient op vraag van de stagecoördinator een eindbeoordeling in.
+
+6. Er wordt ook gevraagd dat iemand van het stagebedrijf aanwezig kan zijn bij de eindpresentatie.
 
 
 
