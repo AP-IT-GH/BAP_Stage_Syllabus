@@ -9,7 +9,12 @@ De presentatie gebeurt in het Nederlands aan de hand van een slideshowpresentati
 * Taal- en spellingsfouten zijn in een presentatie onaanvaardbaar. 
  Je laat daarom best je presentatie even nalezen door iemand die je taal- en spellingsfouten er kan uithalen
 
-**Belangrijk: Maak in je eerste of 2e slide steeds heel duidelijk wat de context van je BAP was. Toon bijvoorbeeld een case waarin jouw product tot uiting komt. Deze slide geeft maw een goede samenvatting en antwoord op de vraag “Wat heb je eigenlijk gemaakt en wat is het nut ervan?”**
+**Belangrijk: Maak in je eerste of 2e slide steeds heel duidelijk wat de context van je BAP was. Toon bijvoorbeeld een case waarin jouw product tot uiting komt. Deze slide geeft maw een goede samenvatting en antwoord op de vraag “Wat heb je eigenlijk gemaakt en wat is het nut ervan?”
+Je reflecteert over het resultaat van je stage en bachelorproef. Vragen die hier beantwoord moeten  worden zijn:
+  * wat hebben we kunnen realiseren
+  * voldoet het resultaat aan de verwachtingen
+  * wat hebben we hieruit geleerd 
+**
 
 ## Demonstratie
 

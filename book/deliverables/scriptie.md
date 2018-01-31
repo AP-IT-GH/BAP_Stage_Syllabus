@@ -67,6 +67,11 @@ Je bent vrij om af te wijken van de hieronder voorgestelde opbouw, maar het is a
   * Testing en validatie
   * Gebruikte tools en technologieën
 * **Conclusie en samenvatting**
+	Je reflecteert over het resultaat van je stage en bachelorproef. Vragen die hier beantwoord moeten  worden zijn:
+  * wat hebben we kunnen realiseren
+  * voldoet het resultaat aan de verwachtingen
+  * wat hebben we hieruit geleerd
+    
 * Uitbreidingen/Future work
 * Appendices
 * **Bibliografie/Geraadpleegde bronnen**
