@@ -102,7 +102,7 @@ Zoekt naar innovatieve oplossingen voor technische problemen en houdt hierbij re
 ## toetsingoverzicht
 
 In het document op onderstaande link vind je een overzicht van het onderdeel waarin een bepaald leerdoel beoordeeld wordt en het percentage waarvoor dit leerdoel gekwoteerd wordt.
-[toetsingsdocument](../1718_ToetsingBAP)
+[toetsingsdocument](./1718_ToetsingBAP.pdf)
 
 ## Met 2 werken
 Studenten die met 2 aan een bachelorproef werken zullen sowieso ook voor
