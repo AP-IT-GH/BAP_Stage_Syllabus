@@ -44,7 +44,7 @@ Geeft presentaties waarbij de communicatie wordt afgestemd op de context, het pu
 De PBA elektronica-ICT werkt zelfstandig en in team opdrachten en projecten uit. Hij functioneert daarbij in een internationale en digitale werkomgeving. 
 Werkt zowel zelfstandig als in een multidisciplinair team opdrachten en projecten uit op een constructieve en professionele manier. 
 Stelt een correcte tijdsplanning op om de eigen taken uit te voeren binnen het kader van de globale planning van het team. 
-### Professioneel handelen11_11. 
+### Professioneel handelen_11. 
 De PBA elektronica-ICT werkt op een maatschappelijk verantwoorde manier, handelt volgens de geldende kwaliteitseisen en neemt verantwoordelijkheid voor de resultaten. 
 Werkt efficiënt, proactief, met doorzettingsvermogen en neemt verantwoordelijkheid voor de resultaten. 
 Houdt rekening met de maatschappelijke context waarin hij werkt en de implicaties die zijn handelen kunnen teweegbrengen. 
@@ -98,6 +98,11 @@ Stelt een complexe systeem in bedrijf volgens de functionele vereisten.
 Meet de niet-functionele vereisten waaronder maar niet beperkt tot performantie, gebruikservaring en stabiliteit en stelt oplossingen voor. 
 Is in staat  op een onderbouwde manier de eigen keuzes bij het ontwerp van oplossingen  te verantwoorden. 
 Zoekt naar innovatieve oplossingen voor technische problemen en houdt hierbij rekening met de economische randvoorwaarden. 
+
+## toetsingoverzicht
+
+In het document op onderstaande link vind je een overzicht van het onderdeel waarin een bepaald leerdoel beoordeeld wordt en het percentage waarvoor dit leerdoel gekwoteerd wordt.
+[toetsingsdocument](../1718_ToetsingBAP)
 
 ## Met 2 werken
 Studenten die met 2 aan een bachelorproef werken zullen sowieso ook voor
