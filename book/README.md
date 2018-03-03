@@ -25,7 +25,7 @@ EPS semester doen hoeven dit document **niet** te volgen.
 
 ## Zoek je informatie?
 Ga naar de online versie van dit [syllabus op
-github](https://github.com/AP-Elektronica-ICT/BAP_Stage_Syllabus/edit/master/StageSyllabus)
+github](https://github.com/AP-Elektronica-ICT/BAP_Stage_Syllabus/tree/master/book)
 en gebruik de search-functionaliteit bovenaan om een bepaalde term te zoeken.
 
 ##Iets onduidelijk?
