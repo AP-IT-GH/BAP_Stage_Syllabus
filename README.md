@@ -7,7 +7,7 @@ De gehoste versie van de syllabus kan u hier terugvinden:
 https://ap-elektronica-ict.gitbooks.io/stage-syllabus/content/
 
 De pdf versie van de syllabus kan u hier terugvinden:  
-[pdfversie](https://github.com/AP-Elektronica-ICT/BAP_Stage_Syllabus/edit/master/StageSyllabus)/book)
+https://github.com/AP-Elektronica-ICT/BAP_Stage_Syllabus/edit/master/StageSyllabus)/book/book.pdf
 
 De presentatie verbonden aan dit syllabus kan u hier terugvinden:  
 http://ap-elektronica-ict.github.io/BAP_Stage_Syllabus/
