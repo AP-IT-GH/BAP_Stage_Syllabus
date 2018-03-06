@@ -90,7 +90,18 @@ Neemt initiatieven om eigen tekorten en competenties te remediëren.
  
 ### Presentatie (20%) 
 Is in staat  op een onderbouwde manier de eigen keuzes bij het ontwerp van oplossingen  te verantwoorden. 
-Geeft presentaties waarbij de communicatie wordt afgestemd op de context, het publiek en het doel van de communicatie. 
+Geeft presentaties waarbij de communicatie wordt afgestemd op de context, het publiek en het doel van de communicatie.
+Er zijn 2 presentaties voorzien:
+- Een tussentijdse presentatie  
+Deze wordt georganiseerd tijdens de examenweek van module3. 
+Er wordt hierbij geen externe jury voorzien. 
+Deze presentatie staat op 20% van de punten van het presentatiegedeelte
+
+- een eindpresentatie
+Deze wordt georganiseerd tijdens de examenreeks na module 4. 
+Er wordt hierbij een externe jury voorzien. 
+Deze presentatie staat op 80% van de punten van het presentatiegedeelte
+
  
 ### Scriptie (20%) 
 Evalueert en onderzoekt mogelijke oplossingen voor een concreet probleem en maakt onderbouwde keuzes. 
