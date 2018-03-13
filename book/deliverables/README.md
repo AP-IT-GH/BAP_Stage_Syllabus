@@ -31,6 +31,7 @@ afgeeft zullen uiteraard "dubbel" zo groot/lang moeten zijn.
 Steeds apart (ieder in eigen repo):
 * VGVs
 * Logs
+* projectomschrijving
 
 Samen:
 * Scriptie
