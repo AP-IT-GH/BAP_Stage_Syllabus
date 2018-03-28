@@ -32,6 +32,7 @@ Steeds apart (ieder in eigen repo):
 * VGVs
 * Logs
 * projectomschrijving
+* tussentijdse presentatie
 
 Samen:
 * Scriptie
