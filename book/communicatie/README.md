@@ -1,17 +1,17 @@
 # Communicatie
 ## Met wie communiceren?
-I.v.m. de bachelorproef en stage heb je 4 personen naar wie je kan mailen/communiceren. 
+I.v.m. de bachelorproef en stage heb je 4 personen met wie je kan mailen/communiceren. 
 1. Stagebegeleider (AP-lector)
 2. Stagementor (bedrijf)
 3. Stagegever 
-4. Stagecoordinators (Smets en Devenyns)
+4. Stagecoördinatoren (Smets en Devenyns)
 
 De eerste twee zijn je eerste en belangrijkste aanspreekpunten. Zij dienen continu op de hoogte gehouden te worden van je status.
-De stagegever en stagecoördinators zullen voornamelijk in semester 5 je aanspreekpunt zijn i.v.m. de documenten die in orde gebracht moeten worden.
-De stagecoordinators contacteer je bij vragen over de algemene werking van de stage en bachelorproef. Bij twijfel mag je deze steeds in cc zetten.
+De stagegever en stagecoördinatoren zullen voornamelijk in semester 5 je aanspreekpunt zijn i.v.m. de documenten die in orde gebracht moeten worden.
+De stagecoordinatoren contacteer je bij vragen over de algemene werking van de stage en bachelorproef. Bij twijfel mag je deze steeds in cc zetten.
 
 ## Taalkeuze
-Alle documenten (scriptie, etc.) moeten in het Nederlands opgesteld te worden. Uitzonderingen hierop zijn:
+Alle documenten (scriptie, etc.) moeten in het Nederlands opgesteld worden. Uitzonderingen hierop zijn:
 * Erasmus-studenten: er dient met de promotor(s) ter plaatse afgesproken te worden welke documenten in het Engels en welke in het Nederlands mogen gemaakt worden.
 * Expliciete vraag van het bedrijf: Indien de bedrijfspromotor nadrukkelijk vraagt om je scriptie in het Engels op te stellen, kan dit in samenspraak met de stagebegeleider.
 

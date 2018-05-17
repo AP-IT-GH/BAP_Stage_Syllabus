@@ -2,11 +2,11 @@
 
 In deze folder kan je alle informatie en afspraken terugvinden
 
-## Selectie Procedure
+## Selectieprocedure
 
-Alle informatie hierover kan je krijgen bij de lector die internationalisering opvolgt : Tom Peeters (tom.peeters@ap.be)
+Alle informatie hierover kan je krijgen bij de lector die internationalisering opvolgt: Tom Peeters (tom.peeters@ap.be).
 
-Onze buitenlandse partners
+Onze buitenlandse partners:
 - http://www.oamk.fi/en
 - https://www.fhstp.ac.at/en
 - http://www.vsb.cz/en
@@ -22,12 +22,12 @@ Onze buitenlandse partners
 - http://fontys.nl/
 - https://www.ipp.pt/
 
-Andere instellingen zijn steeds mogelijk. Hiervoor dien je te informeren bij tom.peeters@ap.be
+Andere instellingen zijn steeds mogelijk. Hiervoor dien je te informeren bij tom.peeters@ap.be.
 
 ## European Project Semester
 
 In a European Project Semester students work together in an international team on a real-life project that matches their area of study and field of interest. We offer 8 different EPS projects in the second semester (spring semester). The language of communication is English. When the student successfully completes the EPS project, he/she is awarded 30 ECTS credits.
 
-- EPS in Antwerpen: http://eps.ap.be/
-- EPS in Europa: http://www.europeanprojectsemester.eu/info/Introduction
+- EPS in Antwerp: http://eps.ap.be/
+- EPS in Europe: http://www.europeanprojectsemester.eu/info/Introduction
  for more detailed info, please contact tom.peeters@ap.be
