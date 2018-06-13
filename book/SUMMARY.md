@@ -1,23 +1,42 @@
-# Summary
+## BOOK 0 = INTRODUCTIE
 * [Introductie](./README.md)
-* [Mogelijkheden](./mogelijkheden/README.md)
-  * [Erasmus/EPS](./mogelijkheden/erasmus_eps.md)
-* [Timing](./timing/README.md)
-* [Opstart](./opstart/README.md)
-* [Communicatie](./communicatie/README.md)
-* [Stage Periode](./stage-periode/README.md)
-* [Deliverables](./deliverables/README.md)
-  * [blueprint](./deliverables/blueprint.md)
-  * [Logboek](./deliverables/logboek.md)
-  * [Voortgangsverslagen](./deliverables/vgv.md)
-  * [Tussentijdse Scriptie](./deliverables/tussentijdse_scriptie.md)
-  * [Tussentijdse Presentatie](./deliverables/tussentijdse_presentatie.md)
-  * [Scriptie Titel](./deliverables/titel.md)
-  * [Scriptie](./deliverables/scriptie.md)
-  * [Eindpresentatie](./deliverables/eindpresentatie.md)
-* [Evaluatie](./evaluatie/evaluatie.md)
-* [Voor Bedrijven](./voor-bedrijven/README.md)
-   * [Vereisten](./voor-bedrijven/vereisten.md)
-   * [Onderwerp](./voor-bedrijven/onderwerp.md)
-   * [Profiel Student](./voor-bedrijven/profiel_student.md)
+* [Timing](./GEMEENSCHAPPELIJK/Timing.md)
+
+## BOOK 1 = Studenten
+* [OPSTART](./STUDENT/_START/README.md)
+* [_STAGE](./STUDENT/_STAGE/README.md)
+  * [Over de communicatie](./STUDENT/INFO/communicatie.md)
+  * [Logboek](./STUDENT/_WERKSTUK/logboek.md)
+* [_WERKSTUK](./STUDENT/_WERKSTUK/readme.md)
+  * [Blueprint](./STUDENT/_WERKSTUK/blueprint.md)
+  * [Voortgangsverslagen](./STUDENT/_WERKSTUK/vgv.md)
+* [_SCRIPTIE](./STUDENT/_SCRIPTIE/README.md)
+  * [Tussentijdse Scriptie](./STUDENT/_SCRIPTIE/tussentijdse_scriptie.md)
+  * [Eindscriptie](./STUDENT/_SCRIPTIE/eindscriptie.md)
+* [_Presentatie](./STUDENT/_PRESENTATIE/README.md)
+  * [Tussentijdse Presentatie](./STUDENT/_PRESENTATIE/tussentijdse_presentatie.md)
+  * [Eindpresentatie](./STUDENT/_PRESENTATIE/eindpresentatie.md)
+* [_NUTTIGE INFO](./STUDENT/INFO/README.md)
+ * [Over de evaluatie](./STUDENT/INFO/evaluatie.md)
+ * [Veel gestelde vragen](./STUDENT/INFO/faq.md)
+
+## BOOK2 = Bedrijven:
+* [Inleiding](./BEDRIJF/README.md)
+  * [Vereisten](./BEDRIJF/vereisten.md)
+  * [Onderwerp](./BEDRIJF/onderwerp.md)
+  * [Profiel Student](./BEDRIJF/profiel_student.md)
+
+## BOOK3  = AP Begeleiders
+
+
+
+
+
+## WEG?
+* [WEG? Mogelijkheden](./_UNUSED/mogelijkheden/README.md)
+* [WEG? Erasmus/EPS](./_UNUSED/mogelijkheden/erasmus_eps.md)
+
+ 
+
+
 

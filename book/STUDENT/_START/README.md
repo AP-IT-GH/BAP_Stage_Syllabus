@@ -1,4 +1,4 @@
-{% import "../vars.md" as vars %}
+{% import "../../vars.md" as vars %}
 # Opstart
 De opstart van de BAP / Stage gebeurt in 5 stappen
 1. Infosessie
