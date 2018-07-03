@@ -1,4 +1,4 @@
-#Logboek
+#Logboek TODO: VERVANGEN DOOR JIRA
 In je logboek dien je het verloop van je stage te beschrijven. Je beschrijft hierin zowel de stage-onderdelen (vergaderingen, presentaties, nieuwe contacten) als de technische progressie van je bachelorproef zelf.
 * Zorg ervoor dat je je logboek (zie studentrepo) *dagelijks* bijwerkt.
 * Je dient *wekelijks* je stagebegeleider een kort (e-mail) verslagje te sturen van je progressie. Dit mag een copy/paste zijn van je logboek aangevuld met een samenvatting van de week.
