@@ -1,4 +1,4 @@
-#Onderwerp BAP/Stage
+# Onderwerp BAP/Stage
 
 Een veelgestelde vraag is wat ‘goede bachelorproefonderwerpen- en
 samenwerkingen’ zijn.
