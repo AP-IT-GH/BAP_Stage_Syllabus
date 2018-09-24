@@ -1,32 +1,24 @@
 # Timing
 {% import "../vars.md" as vars %}
 
-***De timing is voor het traject van een modelstudent. Voor een aangepaste timing, neem je contact op met de stagecoördinator.***
+
 
 # Timing voor BAP/Stage
-*Dit is de timing voor het voorlaatste academiejaar van een modeltraject:*
-
-|Week                           |Beschrijving                                       |
-|---                            |---                                                |
-|{{ vars.deadlineEigenStage }}  |Deadline voor het aanvragen eigen keuze stageplek  |
 
 
-*Dit is de timing voor het laatste academiejaar van een modeltraject:*
-
-|Week                             |Beschrijving                                       |
-|---                              |---                                                |
-|{{ vars.infoSessieStudenten }}   |Infosessie + bekendmaking mogelijke stageplaatsen |
-|{{ vars.deadLineVoorkeuren }}    |Indienen voorkeuren beschikbare stageplaatsen      |
-|{{ vars.toewijzingStage }}       |Bekendmaking toegewezen stageplaatsen              |
-|{{ vars.deadlineStageDocs}}      |Deadline stagedocumenten                           |
-|{{ vars.startStage }}            |Start stage                                        |
-|{{ vars.deadlineVgv1 }}          |Deadline voortgangsverslag #1  + opdrachtomschrijving project |
-|{{ vars.deadlineVgv2 }}          |Deadline voortgangsverslag #2                      |
-|{{ vars.tussenPresentatie }}     |Tussentijdse presentatie                           |
-|{{ vars.tussenScriptie }}        |Deadline tussentijdse scriptie                     |
-|{{ vars.deadlineFinaleTitel }}   |Deadline finale scriptietitel                     |
-|{{ vars.deadlineVgv3 }}          |Deadline Voortgangsverslag #3                      |
-|{{ vars.eindeStage }}            |Einde stage                                        |
-|{{ vars.deadlinePortfolio }}     |Deadline eindportfolio / scriptie                  |
-|{{ vars.eindPresentatie }}       |Eindpresentatie                                    |
+| BAP semester1				| BAP semester2  		  	|Beschrijving	|
+|---                    	|---                      	|---            |
+|{{ vars.stageevent }}  	|{{ vars.stageevent }}	  	|Stage Event |
+|{{ vars.infoSessie }}		|{{ vars.infoSessie1 }}   	|Infosessie       |
+|{{ vars.deadLinePO }} 		|{{ vars.deadLinePO1 }}   	|Indienen projectomschrijving|
+|{{ vars.StageDocs}}		|{{ vars.StageDocs1}} 	  	|Stagedocumenten |
+|{{ vars.startStage }}  	|{{ vars.startStage1 }}   	|Start stage |
+|{{ vars.deadlineVgv1 }}	|{{ vars.deadlineVgv11 }} 	|Voortgangsverslag #1 |
+|{{ vars.TP }}   			|{{ vars.TP1 }}  		  	|Tussentijdse presentatie |
+|{{ vars.deadlineVgv2 }}	|{{ vars.deadlineVgv21 }} 	|Voortgangsverslag #2|
+|{{ vars.1steScriptie }} 	|{{ vars.1steScriptie1 }} 	|Tussentijdse scriptie|
+|{{ vars.FinaleTitel }}     |{{ vars.FinaleTitel1 }}  	|Finale scriptietitel |
+|{{ vars.eindeStage }}		|{{ vars.eindeStage1 }}   	|Einde stage      |
+|{{ vars.Portfolio }}     	|{{ vars.Portfolio1 }}	  	|Eindportfolio / scriptie  |
+|{{ vars.eindPresentatie }} |{{ vars.eindPresentatie1 }}|Eindpresentatie                                    |
 

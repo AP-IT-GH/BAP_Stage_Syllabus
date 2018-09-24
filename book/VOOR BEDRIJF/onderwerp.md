@@ -17,7 +17,7 @@ de eerste 3 a 4 weken krijgen de student(en) een bestaande app na te bouwen (of
 uit te breiden) bij wijze van ‘inwerken’. Vervolgens gaan ze dan de laatste 8 a
 9 weken werken aan ‘iets nieuws’.
 
-Geregeld vinden de resultaten van deze eindwerken rechtstreeks hun weg naar
+Geregeld vinden de resultaten van deze bachelorproeven rechtstreeks hun weg naar
 productie in het bedrijf. We hebben wel tal van voorbeelden waarbij de
 stagestudent na de stage werd aangenomen en als eerste job had om z’n gemaakte
 eindwerk in productie te brengen.
