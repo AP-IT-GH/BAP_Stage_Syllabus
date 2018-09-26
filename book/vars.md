@@ -1,22 +1,39 @@
 9{# Datums #}
-
-{% set deadlineEigenStage = "1/5/17" %}
-{% set infoSessieStudenten = "30/9/17" %}
-{% set deadLineVoorkeuren = "10/10/17" %}
-{% set toewijzingStage = "17/10/17" %}
-{% set deadlineStageDocs = "22/12/17" %}
-{% set startStage = "29/1/18"%}
-{% set deadlineVgv1 = "23/2/18" %}
-{% set deadlineVgv2 = "23/3/18" %}
-{% set tussenPresentatie = "26-30/3/2018" %}
-{% set tussenScriptie = "20/4/2018" %}
-{% set deadlineFinaleTitel = "2/5/2018" %}
-{% set deadlineVgv3 = "11/5/18" %}
-{% set eindeStage = "8/6/18"%}
-{% set deadlinePortfolio = "10/6/2018" %}
-{% set eindPresentatie = "18-22/6/2018" %}
-
-
+{% set stageevent = "3/5/18" %}
+{% set infoSessie = "//18" %}
+{% set infoSessie1 = "//19" %}
+{% set deadLinePO = "24/8/18" %}
+{% set deadLinePO1 = "16/11/18" %}
+{% set StageDocs = "10/9/18" %}
+{% set StageDocs1 = "21/12/18" %}
+{% set startStage = "17/9/18" %}
+{% set startStage1 = "28/1/19" %}
+{% set deadlineVgv1 = "14/10/18" %}
+{% set vars.deadlineVgv11 = "24/2/19" %}
+{% set TP = "6/11/18" %}
+{% set TP1 = "20/3/19" %}
+{% set deadlineVgv2 = "25/11/18" %}
+{% set vars.deadlineVgv21 = "7/4/19" %}
+{% set 1steScriptie = "9/12/18" %}
+{% set 1steScriptie1 = "5/5/19" %}
+{% set FinaleTitel = "20/12/18" %}
+{% set FinaleTitel1 = "19/5/19" %}
+{% set eindeStage = "18/1/19" %}
+{% set eindeStage1 = "7/6/19" %}
+{% set Portfolio = "20/1/19" %}
+{% set eindPresentatie = "28/1/19" %}
+{% set eindPresentatie1 = "11/6/19" %}
+{% set  = "//18" %}
+{% set  = "//19" %}
+{% set  = "//18" %}
+{% set  = "//19" %}
+ {% set  = "//18" %}
+{% set  = "//19" %}
+ {% set  = "//18" %}
+{% set  = "//19" %}
+{% set  = "//18" %}
+{% set  = "//19" %}
+{% set infoSessieStudenten = "4/10/18" %}
 {% set aantalStageDagen = "60" %}
 {% set aantalStageWeken = "15" %}
 {% set docsUrl = "https://github.com/AP-Elektronica-ICT/BAP_Stage_Syllabus/tree/bap1718/docs"%}

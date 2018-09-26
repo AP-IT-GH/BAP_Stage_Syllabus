@@ -20,7 +20,7 @@ Je logboek
 De contactpersoon bij het bedrijf (vaak manager of iemand van HR) die de originele stageaanvraag heeft ingediend.
 
 #Stagecoordinators
-Eindverantwoordelijke voor de stage en bachelorproeforganisatie binnen de opleiding (momenteel Tim Dams, samen met Mac Smets).
+Eindverantwoordelijke voor de stage en bachelorproeforganisatie binnen de opleiding (momenteel Tim Dams, samen met Marc Smets).
 
 #Promotors
 Alle personen die mee een stage en bachelorproef begeleiden. Minimaal is er een stagebegeleider en een stagementor.
