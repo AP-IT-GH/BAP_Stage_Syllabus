@@ -8,6 +8,6 @@ De eindpresentatie zal plaats vinden in de derde examenweek.
 
 Meer informatie vind je op volgende pagina's:
 
-[tussentijdse presentatie](./tussentijdse_presntatie.md)
+[tussentijdse presentatie](./tussentijdsepresntatie.md)
 
 [eindpresentatie](./eindpresentatie.md)
