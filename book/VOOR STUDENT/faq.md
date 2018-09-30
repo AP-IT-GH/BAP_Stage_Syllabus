@@ -66,7 +66,7 @@ sterktes/meerwaarde van je product, etc).
 ##  Ik schrijf alles in de *ik-vorm*, mag dat?**
 Neen. Probeer zo zakelijk mogelijk te schrijven en gebruik dus liever geen
 ik of wij vorm (tenzij je een eigen mening weergeeft). Schrijf dus niet "In dit
-hoofdstuk beschreven ik ..." maar wel "In dit hoofdstuk wordt... beschreven".
+hoofdstuk beschrijf ik ..." maar wel "In dit hoofdstuk wordt... beschreven".
 
 ## Andere *schrijftips?!* **
 Bekijk zeker de schrijfwijzer! Maar ook:
@@ -77,7 +77,7 @@ Bekijk zeker de schrijfwijzer! Maar ook:
   uit het verleden en gebruik dan ook steeds de *verleden tijd* en schrijft
   **nooit in de tegenwoordige of toekomstige tijd** wanneer het om beschrijvingen
   van je geleverde werk gaat (let hier zeker op wanneer je tekst overneemt uit je
-  voortgangsverslagen die mogelijk werk uit de toekomst beschrijden dat je
+  voortgangsverslagen die mogelijk werk uit de toekomst beschrijven dat je
   ondertussen nu wel hebt gedaan).
 
 ## Is het in onze scriptie de bedoeling dat we een *volledige uitleg geven over enkel het eindproduct*, of ook over de tussenstappen die we hiervoor maken?

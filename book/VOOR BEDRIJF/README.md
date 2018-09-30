@@ -16,7 +16,7 @@ Deze sectie bevat informatie die gericht is aan de stagegever en de stagementor
   Wat is een geschikt onderwerp voor een BAP/Stage: [zie hier](./onderwerp.md)
 * **Profiel Student**  
   Wat kan onze student? Is het een geschikte profiel dat u zoekt? [zie hier](./profiel_student.md)
-  
-
+* **evaluatie**  
+  Wat wordt door het bedrijf geëvalueerd[zie hier](./evaluatie.md)
 
 

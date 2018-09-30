@@ -2,58 +2,64 @@
 # Evaluatie
 
 ## Toetsing 
-Je totale punt op 20 wordt samengesteld uit verschillende deelexamens die meetellen voor een bepaald gewicht.  
+Je totale punt op 20 wordt samengesteld uit verschillende delen die meetellen voor een bepaald gewicht.  
  
-Deelexamens: 
+Delen: 
 20% Scriptie 
 20% Presentatie 
 20% Stage ( Enkel punten van ten minste 10 op 20 worden overgedragen naar de tweede examenperiode.) 
-40% Afstudeeropdracht (Enkel punten van ten minste 10 op 20 worden overgedragen naar de tweede examenperiode.) 
+40% Werkstuk (Enkel punten van ten minste 10 op 20 worden overgedragen naar de tweede examenperiode.) 
  
-Bovenstaande leerdoelen worden één of meerdere keren getoetst in deze verschillende deelexamens: 
+Je moet voor elk van de 4 deelevaluaties minstens 10/20 behalen om geslaagd te zijn voor het opleidingsonderdeel bachelorpoef en stage. De 2 laatste ondelen kunnen niet hernomen worden tijdens de 2de examenkans. Het is dan ook zeer belangrijk dat je voor die onderdelen geslaagd bent tijdens de eerste examenkans aangezien een tekort automatisch een fail oplevert tijdens de 2de examenkans
+De scriptie wordt beoordeeld door de personen die je scriptie lezen. De presentatie wordt beoordeeld door de aanwezigen op je bachelorproef veerdediging. De laatste 2 ondelen (stage en werkstuk)worden beoordeeld door je stagementor in samenspraak met je stagebegeleider.
+In de 4 Bovenstaande deenleerdoelen worden één of meerdere keren getoetst in deze verschillende delen:
  
 ### Afstudeeropdracht: (40%) 
-Verzamelt en interpreteert relevante gegevens om functionele en niet-functionele vereisten op te stellen. 
-Splitst zelfstandig een complex probleem op in concrete en hanteerbare deelproblemen. 
-Vertaalt eisen en gegevens in conceptuele modellen en houdt hierbij rekening met de technologische mogelijkheden. 
-Evalueert en onderzoekt mogelijke oplossingen voor een concreet probleem en maakt onderbouwde keuzes. 
-Ontwerpt en ontwikkelt veilige oplossingen met aandacht voor gemaakte afspraken, deadlines en vereisten.  
-Bouwt hardware- en/of softwaresystemen met bestaande bouwstenen die voldoen aan de opgestelde vereisten. 
-Evalueert de goede werking van een complex systeem door geschikte tests en metingen uit te voeren. 
-Interpreteert test- en meetresultaten en stelt hierbij de nodige acties en aanbevelingen voor om fouten op te lossen of de werking van systemen te optimaliseren. 
-Stelt een complexe systeem in bedrijf volgens de functionele vereisten.  
-Reflecteert over tekorten in de eigen kennis en competenties. 
+- Verzamelt en interpreteert relevante gegevens om functionele en niet-functionele vereisten op te stellen. 
+- Splitst zelfstandig een complex probleem op in concrete en hanteerbare deelproblemen. 
+- Vertaalt eisen en gegevens in conceptuele modellen en houdt hierbij rekening met de technologische mogelijkheden. 
+- Evalueert en onderzoekt mogelijke oplossingen voor een concreet probleem en maakt onderbouwde keuzes. 
+- Ontwerpt en ontwikkelt veilige oplossingen met aandacht voor gemaakte afspraken, deadlines en vereisten.  
+- Bouwt hardware- en/of softwaresystemen met bestaande bouwstenen die voldoen aan de opgestelde vereisten. 
+- Evalueert de goede werking van een complex systeem door geschikte tests en metingen uit te voeren. 
+- Interpreteert test- en meetresultaten en stelt hierbij de nodige acties en aanbevelingen voor om fouten op te lossen of de werking van systemen te optimaliseren. 
+- Stelt een complexe systeem in bedrijf volgens de functionele vereisten.
+- Stelt heldere, gestructureerde en volledige verslagen op over de vooruitgang van het project en de ontwikkelde systemen.
+- Reflecteert over tekorten in de eigen kennis en competenties. 
  
 ### Stage (20%) 
-Stelt heldere, gestructureerde en volledige verslagen op over de vooruitgang van het project en de ontwikkelde systemen. 
-Communiceert professioneel met teamleden, leidinggevenden en andere belanghebbenden doorheen het project. 
-Werkt zowel zelfstandig als in een multidisciplinair team opdrachten en projecten uit op een constructieve en professionele manier. 
-Stelt een correcte tijdsplanning op om de eigen taken uit te voeren binnen het kader van de globale planning van het team. 
-Werkt efficiënt, proactief, met doorzettingsvermogen en neemt verantwoordelijkheid voor de resultaten. 
-Houdt rekening met de maatschappelijke context waarin hij werkt en de implicaties die zijn handelen kunnen teweegbrengen. 
-Neemt initiatieven om eigen tekorten en competenties te remediëren. 
+- Communiceert professioneel met teamleden, leidinggevenden en andere belanghebbenden doorheen het project.
+- Werkt zowel zelfstandig als in een multidisciplinair team opdrachten en projecten uit op een constructieve en professionele manier.
+- Stelt een correcte tijdsplanning op om de eigen taken uit te voeren binnen het kader van de globale planning van het team.
+- Werkt efficiënt, proactief, met doorzettingsvermogen en neemt verantwoordelijkheid voor de resultaten.
+- Houdt rekening met de maatschappelijke context waarin hij werkt en de implicaties die zijn handelen kunnen teweegbrengen.
+- Neemt initiatieven om eigen tekorten en competenties te remediëren.
+
  
 ### Presentatie (20%) 
-Is in staat  op een onderbouwde manier de eigen keuzes bij het ontwerp van oplossingen  te verantwoorden. 
-Geeft presentaties waarbij de communicatie wordt afgestemd op de context, het publiek en het doel van de communicatie.
+- Evalueert en onderzoekt mogelijke oplossingen voor een concreet probleem en maakt onderbouwde keuzes.
+- Is in staat  op een onderbouwde manier de eigen keuzes bij het ontwerp van oplossingen  te verantwoorden. 
+- Geeft presentaties waarbij de communicatie wordt afgestemd op de context, het publiek en het doel van de communicatie.
+
 Er zijn 2 presentaties voorzien:
 - Een tussentijdse presentatie  
-Deze wordt georganiseerd tijdens de examenweek van module3. 
+Deze wordt georganiseerd tijdens de 7de stageweek. 
 Er wordt hierbij geen externe jury voorzien. 
 Deze presentatie staat op 20% van de punten van het presentatiegedeelte
 
 - een eindpresentatie
-Deze wordt georganiseerd tijdens de examenreeks na module 4. 
+Deze wordt georganiseerd tijdens de examenreeks na module 2 of module 4. 
 Er wordt hierbij een externe jury voorzien. 
 Deze presentatie staat op 80% van de punten van het presentatiegedeelte
 
  
 ### Scriptie (20%) 
-Evalueert en onderzoekt mogelijke oplossingen voor een concreet probleem en maakt onderbouwde keuzes. 
-Stelt een complexe systeem in bedrijf volgens de functionele vereisten.  
-Meet de niet-functionele vereisten waaronder maar niet beperkt tot performantie, gebruikservaring en stabiliteit en stelt oplossingen voor. 
-Is in staat  op een onderbouwde manier de eigen keuzes bij het ontwerp van oplossingen  te verantwoorden. 
-Zoekt naar innovatieve oplossingen voor technische problemen en houdt hierbij rekening met de economische randvoorwaarden. 
+- Evalueert en onderzoekt mogelijke oplossingen voor een concreet probleem en maakt onderbouwde keuzes. 
+- Stelt een complexe systeem in bedrijf volgens de functionele vereisten.
+- Meet de niet-functionele vereisten waaronder maar niet beperkt tot performantie, gebruikservaring en stabiliteit en stelt oplossingen voor.
+- Is in staat  op een onderbouwde manier de eigen keuzes bij het ontwerp van oplossingen  te verantwoorden. 
+- Stelt heldere, gestructureerde en volledige verslagen op over de vooruitgang van het project en de ontwikkelde systemen.
+- Zoekt naar innovatieve oplossingen voor technische problemen en houdt hierbij rekening met de economische randvoorwaarden. 
 
 ## toetsingoverzicht
 
@@ -82,11 +88,10 @@ verbeterd en/of gemaakt moeten worden, opdat de student alsnog in 2e zit kan
 slagen.
 
 ### Wat hernemen
-*Het is belangrijk te weten dat het criteria "stage" niet kan overgedaan worden
-in 2e zit!*
+*Het is belangrijk te weten dat de delen "stage" en "werkstuk" niet kunnen overgedaan worden tijdens de 2de examenkans!*
 
 Wie de BAP in de eerste zittijd indiende, maar een resultaat van minder dan 10
-behaald heeft, dient voor het opleidingsonderdeel “Bachelorproef en stage 6”
+behaald heeft, dient voor het opleidingsonderdeel “Bachelorproef en stage”
 extra prestaties te leveren : in elk geval opnieuw presenteren, maar ook de
 BAP-opdracht vollediger of beter realiseren, de ingediende tekst waar nodig
 verbeteren en/of aanvullen. Om de specifieke eisen te kennen, nemen de
@@ -104,5 +109,5 @@ dienen.
 ### Timing
 Voor de tweede zittijd moet de scriptie en BAP ten laatste 3 dagen voor de
 datum van de eindpresentatie ingediend worden aan je promotor of de
-stagecoordinator.  **Van deze timing kan afgeweken worden, wat via Blackboard
+stagecoordinator.  **Van deze timing kan afgeweken worden, wat via Digitap
 zal gecommuniceerd worden**
