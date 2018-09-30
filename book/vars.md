@@ -21,8 +21,9 @@
 {% set eindeStage = "18/1/19" %}
 {% set eindeStage1 = "7/6/19" %}
 {% set Portfolio = "20/1/19" %}
+{% set Portfolio1 = "9/6/19" %}
 {% set eindPresentatie = "28/1/19" %}
-{% set eindPresentatie1 = "11/6/19" %}
+{% set eindPresentatie1 = "17/6/19" %}
 {% set  = "//18" %}
 {% set  = "//19" %}
 {% set  = "//18" %}
