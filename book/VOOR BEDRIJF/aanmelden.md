@@ -12,6 +12,6 @@ Voor studenten die hun bachelorproef in het tweede semester uitvoeren start de p
 Informatie omtrent het verder verloop van de procedure en de opdrachtvereisten vinden jullie in de sectie "voor student en bedrijf".
 
 **Registratie**  
-  Wilt u zich registeren als mogelijke stage plaats voor het academie jaar {{ vars.volgendAcaJaar }}, vul dan volgend formulier in: [zie hier]({{ vars.regFormUrl }})
+  Wilt u zich registeren als mogelijke stage plaats voor het 2019-2020, vul dan volgend formulier in: [zie hier]({{ vars.regFormUrl }})
 
 

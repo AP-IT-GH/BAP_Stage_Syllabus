@@ -9,7 +9,7 @@ Deze sectie bevat informatie die gericht is aan de stagegever en de stagementor
 * **Vereisten voor een stageplaats**:  
   Opsomming van de vereisten voor een stageplaats: [zie hier](./vereisten.md)
 * **Registratie**  
-  Wilt u zich registeren als mogelijke stage plaats voor het academie jaar {{ vars.volgendAcaJaar }}, vul dan volgend formulier in: [zie hier]({{ vars.regFormUrl }})
+  Wilt u zich registeren als mogelijke stage plaats voor het academie jaar 2019-2020, vul dan volgend formulier in: [zie hier]({{ vars.regFormUrl }})
 * **Timing:**  
   Voor meer info omtrent data: [zie hier](../timing/README.md)
 * **Onderwerp:**  

@@ -1,7 +1,7 @@
 # stage
 Je bachelorproef voer je uit bij je stagebedrijf. De opleiding heeft er
 expliciet voor gekozen om geen aparte stage uit te voeren daar ze van mening is
-dat {{ vars.aantalStageDagen }} dagen bij een bedrijf aan je bachelorproefwerken
+dat 60 dagen bij een bedrijf aan je bachelorproefwerken
 meer dan voldoet als stage.
 
 ## projectmanagementsysteem
@@ -22,7 +22,7 @@ aub). De inhoud van deze repo is eigendom van de AP Hogeschool. Bespreek wel
 met het bedrijf, welke informatie je juist mag delen, zodat er geen IP wordt
 "gemixt".
 
-Je kan je [hier]({{ vars.ghClassUrl }}) inschrijven in de classroom.
+Je kan je [**hier**](https://classroom.github.com/a/LFJQ8AnN) inschrijven in de classroom.
 
 #### Hoe ga je te werk
 * Ga naar Digitap en open daar in de cursus Bachelorproef en stage de "cursusdocumenten" map.
