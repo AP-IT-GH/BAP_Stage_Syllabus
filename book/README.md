@@ -1,6 +1,4 @@
-
-
-#Introductie
+# Introductie
 
 *Dit document geeft het algemene overzicht van het traject van een bachelorproef (afkorting : BAP) en stage. Vanuit dit document wordt er dan ook verwezen naar andere relevante documenten.*
 
