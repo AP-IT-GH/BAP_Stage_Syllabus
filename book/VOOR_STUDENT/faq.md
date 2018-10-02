@@ -1,5 +1,3 @@
-{% import "../../vars.md" as vars %}
-
 # Veelgestelde vragen
 
 ## "Is de BAP/Stage combineerbaar met andere vakken"
