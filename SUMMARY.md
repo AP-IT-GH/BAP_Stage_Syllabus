@@ -1,5 +1,4 @@
 # Summary
-
 * [Introductie](book/README.md)
 
 # Voor Bedrijf en Student
@@ -11,3 +10,5 @@
 # Voor Student
 
 # Voor Bedrijf
+
+# VAN TIM
