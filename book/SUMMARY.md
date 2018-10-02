@@ -1,5 +1,4 @@
-# Summary
-* [Introductie](book/README.md)
+* [Introductie](README.md)
 
 * Voor Bedrijf en Student
   * [Introductie](VOOR_BEDRIJF_EN_STUDENT/Introductie.md)
