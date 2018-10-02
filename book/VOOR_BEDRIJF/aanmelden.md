@@ -1,4 +1,4 @@
-{%import "../vars.md" as vars%}
+
 # aanmeldingsprocedure
 Ben je als bedrijf geïnteresseerd om een BAP/stage te begeleiden? Hiervoor zijn er enkele verwachting vanuit de hogeschool i.v.m. de opdracht, begeleiding, etc.
 
@@ -10,8 +10,3 @@ Eind juni krijgen studenten die de bachelorproef in het eerste semester kunnen d
 Voor studenten die hun bachelorproef in het tweede semester uitvoeren start de procedure eind september en nemen in oktober en november contact op met een aantal bedrijven om in de derde week van de examens na het eerste semester hun bachelorproef aan te vatten.
 
 Informatie omtrent het verder verloop van de procedure en de opdrachtvereisten vinden jullie in de sectie "voor student en bedrijf".
-
-**Registratie**  
-  Wilt u zich registeren als mogelijke stage plaats voor het 2019-2020, vul dan volgend formulier in: [zie hier]({{ vars.regFormUrl }})
-
-
