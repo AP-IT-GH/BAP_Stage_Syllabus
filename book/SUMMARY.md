@@ -7,6 +7,11 @@
   * [Opdracht](VOOR_BEDRIJF_EN_STUDENT/Opdracht.md)
   * [Timing](VOOR_BEDRIJF_EN_STUDENT/Timing.md)
 * Voor Student
-
+ * [Introductie](VOOR_STUDENT/readme.md)
+ * [Communicatie](VOOR_STUDENT/communicatie.md)
+ * [Deliverables](VOOR_STUDENT/deliverables.md)
+ * [Evaluatie](VOOR_STUDENT/evaluatie.md)
+ * [FAQ](VOOR_STUDENT/faq.md)
+     * [Werkstuk](VOOR_STUDENT/_WERKSTUK/readme.md)
 * Voor Bedrijf
 
