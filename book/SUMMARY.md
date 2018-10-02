@@ -26,7 +26,6 @@
 * [Voor Bedrijf](VOOR_BEDRIJF/README.MD)
   * [Vereisten](VOOR_BEDRIJF/vereisten.md)
   * [Registratie](VOOR_BEDRIJF/aanmelden.md)
-  * [Timing](VOOR_BEDRIJF_EN_STUDENT/Timing.md)
   * [Onderwerp](VOOR_BEDRIJF/onderwerp.md)
   * [Profiel Student](VOOR_BEDRIJF/profiel_student.md)
   * [Evaluatie](VOOR_BEDRIJF/evaluatie.md)
