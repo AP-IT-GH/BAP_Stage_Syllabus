@@ -7,14 +7,14 @@
   * [Opdracht](VOOR_BEDRIJF_EN_STUDENT/Opdracht.md)
   * [Timing](VOOR_BEDRIJF_EN_STUDENT/Timing.md)
 * Voor Student
- * [Algemeen] 
+ * Algemeen 
    * [Introductie](VOOR_STUDENT/readme.md)
    * [Communicatie](VOOR_STUDENT/communicatie.md)
    * [Deliverables](VOOR_STUDENT/deliverables.md)
    * [Evaluatie](VOOR_STUDENT/evaluatie.md)
    * [FAQ](VOOR_STUDENT/faq.md)
- * [WERKSTUK]
-  * [VGV](VOOR_STUDENT/_WERKSTUK/vgv.md)
+ * WERKSTUK
+   * VGV](VOOR_STUDENT/_WERKSTUK/vgv.md)
  * [STAGE](VOOR_STUDENT/_STAGE/readme.md)
  * [SCRIPTIE](VOOR_STUDENT/_SCRIPTIE/readme.md) 
    * [Tussentijdse](VOOR_STUDENT/_SCRIPTIE/tussentijdse_scriptie.md)
@@ -23,5 +23,12 @@
  * [Presentatie](VOOR_STUDENT/_PRESENTATIE/readme.md)
    * [Tussentijdse](VOOR_STUDENT/_PRESENTATIE/tussentijdse_presentatie.md)
    * [Finale](VOOR_STUDENT/_PRESENTATIE/eindpresentatie.md)
-* Voor Bedrijf
+* Voor Bedrijf(VOOR_BEDRIJF/README.MD)
+  * [Vereisten](VOOR_BEDRIJF/vereisten.md)
+  * [Registratie](VOOR_BEDRIJF/aanmelden.md)
+  * [Timing](VOOR_BEDRIJF_EN_STUDENT/Timing.md)
+  * [Vereisten](VOOR_BEDRIJF/vereisten.md)
+  * [Onderwerp](VOOR_BEDRIJF/onderwerp.md)
+  * [Profiel Student](VOOR_BEDRIJF/profiel_student.md)
+  * [Evaluatie](VOOR_BEDRIJF/evaluatie.md)
 
