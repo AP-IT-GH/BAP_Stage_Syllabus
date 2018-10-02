@@ -15,7 +15,7 @@
    * [FAQ](VOOR_STUDENT/faq.md)
  * WERKSTUK
    * [VGV](VOOR_STUDENT/_WERKSTUK/vgv.md)
- * [STAGE](VOOR_STUDENT/_STAGE/readme.md)
+ * [STAGE](VOOR_STUDENT/_STAGE/README.MD)
  * [SCRIPTIE](VOOR_STUDENT/_SCRIPTIE/readme.md) 
    * [Tussentijdse](VOOR_STUDENT/_SCRIPTIE/tussentijdse_scriptie.md)
    * [Finale](VOOR_STUDENT/_SCRIPTIE/finale.md)
