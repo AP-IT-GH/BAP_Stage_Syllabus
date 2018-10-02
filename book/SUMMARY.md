@@ -14,7 +14,7 @@
    * [Evaluatie](VOOR_STUDENT/evaluatie.md)
    * [FAQ](VOOR_STUDENT/faq.md)
  * WERKSTUK
-   * VGV](VOOR_STUDENT/_WERKSTUK/vgv.md)
+   * [VGV](VOOR_STUDENT/_WERKSTUK/vgv.md)
  * [STAGE](VOOR_STUDENT/_STAGE/readme.md)
  * [SCRIPTIE](VOOR_STUDENT/_SCRIPTIE/readme.md) 
    * [Tussentijdse](VOOR_STUDENT/_SCRIPTIE/tussentijdse_scriptie.md)
