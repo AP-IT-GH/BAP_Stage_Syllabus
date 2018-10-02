@@ -23,7 +23,7 @@
  * [Presentatie](VOOR_STUDENT/_PRESENTATIE/readme.md)
    * [Tussentijdse](VOOR_STUDENT/_PRESENTATIE/tussentijdse_presentatie.md)
    * [Finale](VOOR_STUDENT/_PRESENTATIE/eindpresentatie.md)
-* Voor Bedrijf(VOOR_BEDRIJF/README.MD)
+* [Voor Bedrijf](VOOR_BEDRIJF/README.MD)
   * [Vereisten](VOOR_BEDRIJF/vereisten.md)
   * [Registratie](VOOR_BEDRIJF/aanmelden.md)
   * [Timing](VOOR_BEDRIJF_EN_STUDENT/Timing.md)
