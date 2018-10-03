@@ -13,10 +13,9 @@
    * [Deliverables](VOOR_STUDENT/deliverables.md)
    * [Evaluatie](VOOR_STUDENT/evaluatie.md)
    * [FAQ](VOOR_STUDENT/faq.md)
- * WERKSTUK
-   * [VGV](VOOR_STUDENT/_WERKSTUK/vgv.md)
+ * [WERKSTUK](VOOR_STUDENT/_WERKSTUK/readme.md)
  * [STAGE](VOOR_STUDENT/_STAGE/README.MD)
- * [SCRIPTIE](VOOR_STUDENT/_SCRIPTIE/readme.md) 
+ * [SCRIPTIE](VOOR_STUDENT/_SCRIPTIE/readme.md)
    * [Tussentijdse](VOOR_STUDENT/_SCRIPTIE/tussentijdse_scriptie.md)
    * [Finale](VOOR_STUDENT/_SCRIPTIE/finale.md)
  
