@@ -17,7 +17,7 @@
  * [STAGE](VOOR_STUDENT/_STAGE/README.MD)
  * [SCRIPTIE](VOOR_STUDENT/_SCRIPTIE/readme.md)
    * [Tussentijdse](VOOR_STUDENT/_SCRIPTIE/tussentijdse_scriptie.md)
-   * [Finale](VOOR_STUDENT/_SCRIPTIE/finale.md) 
+   * [Finale](VOOR_STUDENT/_SCRIPTIE/eindscriptie.md) 
  * [Presentatie](VOOR_STUDENT/_PRESENTATIE/readme.md)
    * [Tussentijdse](VOOR_STUDENT/_PRESENTATIE/tussentijdse_presentatie.md)
    * [Finale](VOOR_STUDENT/_PRESENTATIE/eindpresentatie.md)
