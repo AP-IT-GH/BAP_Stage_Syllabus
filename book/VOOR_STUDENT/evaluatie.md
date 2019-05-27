@@ -72,7 +72,7 @@ bepaalde aspecten afzonderlijk geëvalueerd worden. Het is dus perfect mogelijk
 dat de ene student slaagt voor z’n BAP en de andere niet.
 
 Lees zeker goed door **welke zaken je samen en welke je apart moet afgeven**
-wanneer je in team werkt ([hier](../deliverables/README.md)).
+wanneer je in team werkt ([hier](./deliverables/README.md)).
 
 
 *De uitvoering van je bachelorproef is volledig jouw eigen project. Je
